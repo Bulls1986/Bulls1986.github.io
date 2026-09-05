@@ -1,0 +1,87 @@
+1:"$Sreact.fragment"
+2:I[6670,[],""]
+3:I[7764,[],""]
+4:I[6490,["443","static/chunks/443-7cf74c804957b081.js","489","static/chunks/489-8017c614124496c3.js","499","static/chunks/app/docs/layout-085263c9c1978b47.js"],"default"]
+5:I[1443,["443","static/chunks/443-7cf74c804957b081.js","489","static/chunks/489-8017c614124496c3.js","582","static/chunks/app/docs/%5B...slug%5D/page-9f1c6ed98e537349.js"],""]
+9:I[182,[],""]
+:HL["/_next/static/media/22a5144ee8d83bca-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7d4881bb7e1bf84d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/594aaef56c2fcdc5.css","style"]
+:HL["/_next/static/css/a244f3ad1ba92095.css","style"]
+0:{"P":null,"b":"BCwQVXqvkGVpKJpXLRn0O","p":"","c":["","docs","dev","code-of-conduct",""],"i":false,"f":[[["",{"children":["docs",{"children":[["slug","dev/code-of-conduct","c"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/594aaef56c2fcdc5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","data-theme":"dark","className":"__variable_246ccd __variable_c29908","children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem(\"inkiva-theme\");if(!t)t=\"dark\";document.documentElement.setAttribute('data-theme',t);}catch(e){document.documentElement.setAttribute('data-theme',\"dark\");}})();"}}]}],["$","body",null,{"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Inkiva\",\"applicationCategory\":\"DeveloperApplication\",\"operatingSystem\":\"macOS, Windows, Linux\",\"description\":\"A free, open-source WYSIWYG Markdown editor for macOS, Windows and Linux. Write naturally and see the rendered document take shape in place.\",\"url\":\"https://www.inkiva.net\",\"license\":\"https://github.com/Bulls1986/Inkiva/blob/develop/LICENSE\",\"author\":{\"@type\":\"Person\",\"name\":\"Ran Luo\",\"url\":\"https://github.com/Jocs\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"USD\"},\"downloadUrl\":\"https://github.com/Bulls1986/Inkiva/releases/latest\",\"softwareVersion\":\"latest\"}"}}]]}]]}]]}],{"children":["docs",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a244f3ad1ba92095.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],[["$","div",null,{"className":"bg-fx"}],["$","div",null,{"className":"bg-grid"}],["$","$L4",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}]]]}],{"children":[["slug","dev/code-of-conduct","c"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"doc-main doc-notfound","children":["$","article",null,{"className":"doc-article","children":[["$","div",null,{"className":"doc-eyebrow","children":"404"}],["$","h1",null,{"className":"art-title","children":"Page not found"}],["$","p",null,{"className":"art-lead","children":["The page you're looking for has moved or never existed. Try the documentation home, or press ",["$","code",null,{"className":"inline","children":"⌘K"}]," to search."]}],["$","p",null,{"children":["$","$L5",null,{"className":"doc-cta","href":"/docs/introduction","children":["Back to ","Introduction"]}]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",null,"$L7"]}],{},null,false]},null,false]},null,false]},null,false],"$L8",false]],"m":"$undefined","G":["$9",[]],"s":false,"S":true}
+a:I[6359,[],"OutletBoundary"]
+c:I[9830,[],"AsyncMetadataOutlet"]
+e:I[6359,[],"ViewportBoundary"]
+10:I[6359,[],"MetadataBoundary"]
+11:"$Sreact.suspense"
+7:["$","$La",null,{"children":["$Lb",["$","$Lc",null,{"promise":"$@d"}]]}]
+8:["$","$1","h",{"children":[null,[["$","$Le",null,{"children":"$Lf"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L10",null,{"children":["$","div",null,{"hidden":true,"children":["$","$11",null,{"fallback":null,"children":"$L12"}]}]}]]}]
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#0b63e5"}]]
+b:null
+13:I[3766,[],"IconMark"]
+d:{"metadata":[["$","title","0",{"children":"Code of conduct · Inkiva Docs"}],["$","meta","1",{"name":"description","content":"Community guidelines"}],["$","meta","2",{"name":"application-name","content":"Inkiva"}],["$","link","3",{"rel":"author","href":"https://github.com/Jocs"}],["$","meta","4",{"name":"author","content":"Ran Luo"}],["$","meta","5",{"name":"keywords","content":"markdown editor,WYSIWYG markdown,CommonMark,GitHub Flavored Markdown,GFM,KaTeX,Mermaid,PlantUML,Electron,macOS,Windows,Linux"}],["$","meta","6",{"name":"creator","content":"Ran Luo"}],["$","link","7",{"rel":"canonical","href":"https://www.inkiva.net/"}],["$","meta","8",{"property":"og:title","content":"Inkiva · 墨映 — WYSIWYG Markdown editor"}],["$","meta","9",{"property":"og:description","content":"A free, open-source WYSIWYG Markdown editor for macOS, Windows and Linux. Write naturally and see the rendered document take shape in place."}],["$","meta","10",{"property":"og:url","content":"https://www.inkiva.net/"}],["$","meta","11",{"property":"og:site_name","content":"Inkiva"}],["$","meta","12",{"property":"og:locale","content":"en_US"}],["$","meta","13",{"property":"og:image","content":"https://www.inkiva.net/favicon.png"}],["$","meta","14",{"property":"og:image:width","content":"512"}],["$","meta","15",{"property":"og:image:height","content":"512"}],["$","meta","16",{"property":"og:image:alt","content":"Inkiva logo"}],["$","meta","17",{"property":"og:type","content":"website"}],["$","meta","18",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","19",{"name":"twitter:site","content":"@inkivaapp"}],["$","meta","20",{"name":"twitter:title","content":"Inkiva · 墨映 — WYSIWYG Markdown editor"}],["$","meta","21",{"name":"twitter:description","content":"A free, open-source WYSIWYG Markdown editor for macOS, Windows and Linux. Write naturally and see the rendered document take shape in place."}],["$","meta","22",{"name":"twitter:image","content":"https://www.inkiva.net/favicon.png"}],["$","link","23",{"rel":"icon","href":"/favicon.png"}],["$","$L13","24",{}]],"error":null,"digest":"$undefined"}
+12:"$d:metadata"
+14:I[966,["443","static/chunks/443-7cf74c804957b081.js","489","static/chunks/489-8017c614124496c3.js","582","static/chunks/app/docs/%5B...slug%5D/page-9f1c6ed98e537349.js"],"default"]
+15:I[713,["443","static/chunks/443-7cf74c804957b081.js","489","static/chunks/489-8017c614124496c3.js","582","static/chunks/app/docs/%5B...slug%5D/page-9f1c6ed98e537349.js"],"default"]
+16:Tfbd,
+<h2 id="our-pledge">Our Pledge<a class="anchor" aria-hidden tabindex="-1" href="#our-pledge">#</a></h2>
+<p>In the interest of fostering an open and welcoming environment, we as
+contributors and maintainers pledge to making participation in our project and
+our community a harassment-free experience for everyone, regardless of age, body
+size, disability, ethnicity, gender identity and expression, level of experience,
+education, socio-economic status, nationality, personal appearance, race,
+religion, or sexual identity and orientation.</p>
+<h2 id="our-standards">Our Standards<a class="anchor" aria-hidden tabindex="-1" href="#our-standards">#</a></h2>
+<p>Examples of behavior that contributes to creating a positive environment
+include:</p>
+<ul>
+<li>Using welcoming and inclusive language</li>
+<li>Being respectful of differing viewpoints and experiences</li>
+<li>Gracefully accepting constructive criticism</li>
+<li>Focusing on what is best for the community</li>
+<li>Showing empathy towards other community members</li>
+</ul>
+<p>Examples of unacceptable behavior by participants include:</p>
+<ul>
+<li>The use of sexualized language or imagery and unwelcome sexual attention or
+advances</li>
+<li>Trolling, insulting/derogatory comments, and personal or political attacks</li>
+<li>Public or private harassment</li>
+<li>Publishing others' private information, such as a physical or electronic
+address, without explicit permission</li>
+<li>Other conduct which could reasonably be considered inappropriate in a
+professional setting</li>
+</ul>
+<h2 id="our-responsibilities">Our Responsibilities<a class="anchor" aria-hidden tabindex="-1" href="#our-responsibilities">#</a></h2>
+<p>Project maintainers are responsible for clarifying the standards of acceptable
+behavior and are expected to take appropriate and fair corrective action in
+response to any instances of unacceptable behavior.</p>
+<p>Project maintainers have the right and responsibility to remove, edit, or
+reject comments, commits, code, wiki edits, issues, and other contributions
+that are not aligned to this Code of Conduct, or to ban temporarily or
+permanently any contributor for other behaviors that they deem inappropriate,
+threatening, offensive, or harmful.</p>
+<h2 id="scope">Scope<a class="anchor" aria-hidden tabindex="-1" href="#scope">#</a></h2>
+<p>This Code of Conduct applies both within project spaces and in public spaces
+when an individual is representing the project or its community. Examples of
+representing a project or community include using an official project e-mail
+address, posting via an official social media account, or acting as an appointed
+representative at an online or offline event. Representation of a project may be
+further defined and clarified by project maintainers.</p>
+<h2 id="enforcement">Enforcement<a class="anchor" aria-hidden tabindex="-1" href="#enforcement">#</a></h2>
+<p>Instances of abusive, harassing, or otherwise unacceptable behavior may be
+reported by contacting the project team at <a href="mailto:ransixi@gmail.com" class="link">ransixi@gmail.com</a>. All
+complaints will be reviewed and investigated and will result in a response that
+is deemed necessary and appropriate to the circumstances. The project team is
+obligated to maintain confidentiality with regard to the reporter of an incident.
+Further details of specific enforcement policies may be posted separately.</p>
+<p>Project maintainers who do not follow or enforce the Code of Conduct in good
+faith may face temporary or permanent repercussions as determined by other
+members of the project's leadership.</p>
+<h2 id="attribution">Attribution<a class="anchor" aria-hidden tabindex="-1" href="#attribution">#</a></h2>
+<p>This Code of Conduct is adapted from the <a href="https://www.contributor-covenant.org" class="link">Contributor Covenant</a>, version 1.4,
+available at <a href="https://www.contributor-covenant.org/version/1/4/code-of-conduct.html" class="link">https://www.contributor-covenant.org/version/1/4/code-of-conduct.html</a></p>6:["$","div",null,{"className":"docs-shell","children":[["$","$L14",null,{"activeTab":"dev","activeHref":"/docs/dev/code-of-conduct"}],["$","main",null,{"className":"doc-main","children":[["$","$L15",null,{}],["$","article",null,{"className":"doc-article","children":[["$","nav",null,{"className":"breadcrumb","aria-label":"Breadcrumb","children":[["$","$L5",null,{"href":"/docs/dev/overview","children":"Developer docs"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"className":"cur","children":"Project"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"className":"cur","children":"Code of conduct"}]]}],["$","div",null,{"className":"doc-eyebrow","children":"Developer documentation"}],["$","h1",null,{"className":"art-title","children":"Contributor Covenant Code of Conduct#"}],null,["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$16"}}],"$L17","$L18"]}]]}],"$L19"]}]
+1a:I[8962,["443","static/chunks/443-7cf74c804957b081.js","489","static/chunks/489-8017c614124496c3.js","582","static/chunks/app/docs/%5B...slug%5D/page-9f1c6ed98e537349.js"],"default"]
+17:["$","nav",null,{"className":"pager","aria-label":"Previous / next page","children":[["$","$L5",null,{"className":"prev","href":"/docs/dev/hotfix","children":[["$","span",null,{"className":"dir","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"2","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":true,"children":["$","path",null,{"d":"M19 12H5M12 5l-7 7 7 7"}]}],"Previous"]}],["$","span",null,{"className":"nm","children":"Hotfix release"}]]}],["$","$L5",null,{"className":"next","href":"/docs/changelog","children":[["$","span",null,{"className":"dir","children":["Next",["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"2","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":true,"children":["$","path",null,{"d":"M5 12h14M12 5l7 7-7 7"}]}]]}],["$","span",null,{"className":"nm","children":"Changelog"}]]}]]}]
+18:["$","footer",null,{"className":"doc-footer","children":[["$","span",null,{"children":"Last reviewed in the develop branch · open source under the GPL-3.0 license."}],["$","a",null,{"className":"edit-link","href":"https://github.com/Bulls1986/Inkiva/edit/develop/packages/website/content/docs/dev/CODE_OF_CONDUCT.md","target":"_blank","rel":"noopener noreferrer","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"2","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":true,"children":[["$","path",null,{"d":"M12 20h9"}],["$","path",null,{"d":"M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4z"}]]}],"Edit this page on GitHub"]}]]}]
+19:["$","$L1a",null,{"entries":[{"id":"our-pledge","text":"Our Pledge","depth":2},{"id":"our-standards","text":"Our Standards","depth":2},{"id":"our-responsibilities","text":"Our Responsibilities","depth":2},{"id":"scope","text":"Scope","depth":2},{"id":"enforcement","text":"Enforcement","depth":2},{"id":"attribution","text":"Attribution","depth":2}]}]

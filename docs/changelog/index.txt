@@ -1,0 +1,900 @@
+1:"$Sreact.fragment"
+2:I[6670,[],""]
+3:I[7764,[],""]
+4:I[6490,["443","static/chunks/443-7cf74c804957b081.js","489","static/chunks/489-8017c614124496c3.js","499","static/chunks/app/docs/layout-085263c9c1978b47.js"],"default"]
+5:I[1443,["443","static/chunks/443-7cf74c804957b081.js","489","static/chunks/489-8017c614124496c3.js","582","static/chunks/app/docs/%5B...slug%5D/page-9f1c6ed98e537349.js"],""]
+7:I[6359,[],"OutletBoundary"]
+9:I[9830,[],"AsyncMetadataOutlet"]
+c:I[182,[],""]
+:HL["/_next/static/media/22a5144ee8d83bca-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7d4881bb7e1bf84d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/594aaef56c2fcdc5.css","style"]
+:HL["/_next/static/css/a244f3ad1ba92095.css","style"]
+0:{"P":null,"b":"BCwQVXqvkGVpKJpXLRn0O","p":"","c":["","docs","changelog",""],"i":false,"f":[[["",{"children":["docs",{"children":[["slug","changelog","c"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/594aaef56c2fcdc5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","data-theme":"dark","className":"__variable_246ccd __variable_c29908","children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem(\"inkiva-theme\");if(!t)t=\"dark\";document.documentElement.setAttribute('data-theme',t);}catch(e){document.documentElement.setAttribute('data-theme',\"dark\");}})();"}}]}],["$","body",null,{"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Inkiva\",\"applicationCategory\":\"DeveloperApplication\",\"operatingSystem\":\"macOS, Windows, Linux\",\"description\":\"A free, open-source WYSIWYG Markdown editor for macOS, Windows and Linux. Write naturally and see the rendered document take shape in place.\",\"url\":\"https://www.inkiva.net\",\"license\":\"https://github.com/Bulls1986/Inkiva/blob/develop/LICENSE\",\"author\":{\"@type\":\"Person\",\"name\":\"Ran Luo\",\"url\":\"https://github.com/Jocs\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"USD\"},\"downloadUrl\":\"https://github.com/Bulls1986/Inkiva/releases/latest\",\"softwareVersion\":\"latest\"}"}}]]}]]}]]}],{"children":["docs",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a244f3ad1ba92095.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],[["$","div",null,{"className":"bg-fx"}],["$","div",null,{"className":"bg-grid"}],["$","$L4",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}]]]}],{"children":[["slug","changelog","c"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"doc-main doc-notfound","children":["$","article",null,{"className":"doc-article","children":[["$","div",null,{"className":"doc-eyebrow","children":"404"}],["$","h1",null,{"className":"art-title","children":"Page not found"}],["$","p",null,{"className":"art-lead","children":["The page you're looking for has moved or never existed. Try the documentation home, or press ",["$","code",null,{"className":"inline","children":"⌘K"}]," to search."]}],["$","p",null,{"children":["$","$L5",null,{"className":"doc-cta","href":"/docs/introduction","children":["Back to ","Introduction"]}]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$L8",["$","$L9",null,{"promise":"$@a"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],"$Lb",false]],"m":"$undefined","G":["$c",[]],"s":false,"S":true}
+d:I[6359,[],"ViewportBoundary"]
+f:I[6359,[],"MetadataBoundary"]
+10:"$Sreact.suspense"
+b:["$","$1","h",{"children":[null,[["$","$Ld",null,{"children":"$Le"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lf",null,{"children":["$","div",null,{"hidden":true,"children":["$","$10",null,{"fallback":null,"children":"$L11"}]}]}]]}]
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#0b63e5"}]]
+8:null
+12:I[3766,[],"IconMark"]
+a:{"metadata":[["$","title","0",{"children":"Changelog · Inkiva Docs"}],["$","meta","1",{"name":"description","content":"Release history"}],["$","meta","2",{"name":"application-name","content":"Inkiva"}],["$","link","3",{"rel":"author","href":"https://github.com/Jocs"}],["$","meta","4",{"name":"author","content":"Ran Luo"}],["$","meta","5",{"name":"keywords","content":"markdown editor,WYSIWYG markdown,CommonMark,GitHub Flavored Markdown,GFM,KaTeX,Mermaid,PlantUML,Electron,macOS,Windows,Linux"}],["$","meta","6",{"name":"creator","content":"Ran Luo"}],["$","link","7",{"rel":"canonical","href":"https://www.inkiva.net/"}],["$","meta","8",{"property":"og:title","content":"Inkiva · 墨映 — WYSIWYG Markdown editor"}],["$","meta","9",{"property":"og:description","content":"A free, open-source WYSIWYG Markdown editor for macOS, Windows and Linux. Write naturally and see the rendered document take shape in place."}],["$","meta","10",{"property":"og:url","content":"https://www.inkiva.net/"}],["$","meta","11",{"property":"og:site_name","content":"Inkiva"}],["$","meta","12",{"property":"og:locale","content":"en_US"}],["$","meta","13",{"property":"og:image","content":"https://www.inkiva.net/favicon.png"}],["$","meta","14",{"property":"og:image:width","content":"512"}],["$","meta","15",{"property":"og:image:height","content":"512"}],["$","meta","16",{"property":"og:image:alt","content":"Inkiva logo"}],["$","meta","17",{"property":"og:type","content":"website"}],["$","meta","18",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","19",{"name":"twitter:site","content":"@inkivaapp"}],["$","meta","20",{"name":"twitter:title","content":"Inkiva · 墨映 — WYSIWYG Markdown editor"}],["$","meta","21",{"name":"twitter:description","content":"A free, open-source WYSIWYG Markdown editor for macOS, Windows and Linux. Write naturally and see the rendered document take shape in place."}],["$","meta","22",{"name":"twitter:image","content":"https://www.inkiva.net/favicon.png"}],["$","link","23",{"rel":"icon","href":"/favicon.png"}],["$","$L12","24",{}]],"error":null,"digest":"$undefined"}
+11:"$a:metadata"
+13:I[966,["443","static/chunks/443-7cf74c804957b081.js","489","static/chunks/489-8017c614124496c3.js","582","static/chunks/app/docs/%5B...slug%5D/page-9f1c6ed98e537349.js"],"default"]
+14:I[713,["443","static/chunks/443-7cf74c804957b081.js","489","static/chunks/489-8017c614124496c3.js","582","static/chunks/app/docs/%5B...slug%5D/page-9f1c6ed98e537349.js"],"default"]
+15:Te5eb,<h2 id="0171">0.17.1<a class="anchor" aria-hidden tabindex="-1" href="#0171">#</a></h2>
+<ul>
+<li>Added experimental native support for Apple M1 (see #2983 if you have issues).</li>
+</ul>
+<p><strong>:butterfly:Optimization</strong></p>
+<ul>
+<li>Improved behavior of inline markdown character auto pairing.</li>
+</ul>
+<p><strong>:beetle:Bug fix</strong></p>
+<ul>
+<li>Fixed crash at startup when a key binding was unset.</li>
+<li>Fixed paste handler for images.</li>
+<li>Fixed deletion behavior of a selected image.</li>
+</ul>
+<h2 id="0170">0.17.0<a class="anchor" aria-hidden tabindex="-1" href="#0170">#</a></h2>
+<p>Inkiva is now Inkiva! We'd like to thank all contributors and users that have been using Inkiva and worked on this release.</p>
+<p><strong>:warning:Breaking Changes:</strong></p>
+<ul>
+<li>Changed multiple default key bindings.</li>
+<li>Changed key binding handling: all key bindings are now mapped to the corresponding US key bindings. E.g. <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>Ctrl+Shift+7</span></span></code></span> on a German keyboard will now produce <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>Ctrl+/</span></span></code></span> because <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>Shift+7</span></span></code></span> is equivalent to <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>/</span></span></code></span>.</li>
+<li>Image uploader: SM.MS was removed, GitHub uploader is deprecated and will be replaced by PicGo in our next release.</li>
+</ul>
+<p><strong>:cactus:Feature</strong></p>
+<ul>
+<li>Added support for image path variables.</li>
+<li>Added command-line image uploader and reworked settings.</li>
+<li>Added regular expression group replacement to searcher.</li>
+<li>Added PlantUML diagram support.</li>
+<li>Added support for chemical equations in math mode.</li>
+<li>Added automatic call to search for find-in-file when the pane is opened.</li>
+<li>Open local non-markdown files in default application.</li>
+<li>Added support to use all menu entries for key binding.</li>
+<li>Added window zoom via default mouse event.</li>
+<li>Zoom level is now restored on startup.</li>
+<li>Added PicGo to upload images.</li>
+<li>Ability to invalidate image cache on demand.</li>
+<li>Added settings page to configure key bindings.</li>
+</ul>
+<p><strong>:butterfly:Optimization</strong></p>
+<ul>
+<li>Improved inline markdown autocomplete support.</li>
+<li>Improved preference design.</li>
+<li>Relative image paths are now converted to forward slashes on Windows for better compatibility.</li>
+<li>Center sidebar image when no search results are available.</li>
+<li>Updated emoji database.</li>
+<li>Improved sidebar file handling UX by providing more error messages.</li>
+</ul>
+<p><strong>:beetle:Bug fix</strong></p>
+<ul>
+<li>Fixed an issue with code block cursor positioning.</li>
+<li>Fixed invalid mermaid diagram representation when exporting as PDF.</li>
+<li>Fixed rendering issue with LaTeX formulas</li>
+<li>Fixed an issue that may caused editor flickering while pressing <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>Enter</span></span></code></span>.</li>
+<li>Fixed Table of Contents sidebar display issue.</li>
+<li>Fixed editor overflow when the sidbar is open.</li>
+<li>Fixed a crash that occurred due to a bug in the markdown footnote parser.</li>
+<li>Fixed issue with shortcuts that included <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>Alt</span></span></code></span>.</li>
+<li>Fixed multiple issues on non-US keyboards.</li>
+<li>Normalized source-code editor cursor.</li>
+<li>Fixed preference scaling issue and added missing scrollbar.</li>
+<li>Fixed a rendering issue when multiple elements were selected via keyboard.</li>
+<li>Fixed preference migrations were always executed on start-up.</li>
+<li>Fixed scrolling and search match positing with high DPI scaling.</li>
+<li>Fixed slow startup on Windows due to a blocking call.</li>
+<li>Fixed an issue that caused the paste handler to insert only HTML content because if HTML rendering was disabled.</li>
+<li>Fixed file rename with editor dialog.</li>
+<li>Fixed URL open handler when clicking a link in the editor.</li>
+<li>Fixed an issue that prevented to unindent a list item.</li>
+<li>Fixed multiple XSS issues on language selector and data input.</li>
+<li>Fixed a bug that HTML was rendered in preview mode even it was disabled in settings.</li>
+<li>HTML character encoding is now supported in code blocks.</li>
+</ul>
+<h2 id="0163">0.16.3<a class="anchor" aria-hidden tabindex="-1" href="#0163">#</a></h2>
+<p><strong>:warning:Breaking Changes:</strong></p>
+<ul>
+<li>Disabled rendering of MathML elements.</li>
+</ul>
+<p><strong>:cactus:Feature</strong></p>
+<ul>
+<li>Added support for SPARQL and Turtle languages (@vemonet).</li>
+<li>Added support for forward navigation in table cells with <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>Shift+Tab</span></span></code></span> (@evan-cohen).</li>
+<li>Added support for negative zoom.</li>
+<li>Adjusted footnote inline code font size.</li>
+<li>Added shortcut to toggle table of contents panel (@zmen).</li>
+<li>Added settings option to disable HTML rendering.</li>
+<li>Added support for a relative image directory.</li>
+<li>Added support to include table of contents in exported document.</li>
+</ul>
+<p><strong>:butterfly:Optimization</strong></p>
+<ul>
+<li>Improved color of word counter in graphite light theme (@bmvisoky).</li>
+<li>Improved UX of font selection.</li>
+</ul>
+<p><strong>:beetle:Bug fix</strong></p>
+<ul>
+<li>Fixed XSS security vulnerability when parsing MathML submitted by @0xBADCA7.</li>
+<li>Fixed an issue that URLs with trailing slashes are not recognized (@sweetliquid).</li>
+<li>Fixed closing tabs with mouse-middle click (@mnxn).</li>
+<li>Fixed an exception when selecting a table cell with <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>Ctrl+A</span></span></code></span> (@AmauriAires).</li>
+<li>Fixed quick open searcher (@munckymagik).</li>
+<li>Fixed code highlighting in a special case (@zmen).</li>
+<li>Fixed an issue with shaking in typewriter mode (@MrHeer).</li>
+<li>Fixed spell checker config schema violation on Windows and allowed BCP-47 language codes.</li>
+<li>Fixed behavior when a single table cell is selected.</li>
+<li>Fixed an issue that symbolic files could not be opened.</li>
+<li>Fixed blank window when opening a second window with <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>--new-window</span></span></code></span>.</li>
+</ul>
+<h2 id="0162">0.16.2<a class="anchor" aria-hidden tabindex="-1" href="#0162">#</a></h2>
+<p><strong>:warning:Breaking Changes:</strong></p>
+<ul>
+<li>Toggle focus mode shortcut is now <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>Ctrl+Shift+J</span></span></code></span>.</li>
+</ul>
+<p><strong>:cactus:Feature</strong></p>
+<ul>
+<li>Added shortcut to switch tabs <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>Alt-#&#x3C;num></span></span></code></span> (@MrHeer).</li>
+<li>Added GitLab math block support.</li>
+<li>Support setting text direction via comand palette (@Pajn).</li>
+</ul>
+<p><strong>:butterfly:Optimization</strong></p>
+<ul>
+<li>Scale headings according editor font size.</li>
+<li>Increased indentation for sidebar tree view (@BeatLink).</li>
+<li>Updated user-interface strings (@brainchild0, @Rexogamer).</li>
+</ul>
+<p><strong>:beetle:Bug fix</strong></p>
+<ul>
+<li>Fixed image export issues on Windows.</li>
+<li>Fixed an issue that multiple empty shortcuts were not allowed.</li>
+<li>Fixed image path autocomplete.</li>
+<li>Fixed an issue that the max width of editor tabs was not rendererd correctly (@aimproxy).</li>
+<li>Fixed Hunspell dictionary downloader on Windows.</li>
+<li>Fixed an issue with Hunspell spell checker on Windows.</li>
+<li>Fixed ASCII (ISO-8859-1) encoding in settings validator.</li>
+<li>Fixed footnote exception when exporting document.</li>
+<li>Fixed cryptic characters when exporting document as PDF on macOS (@gSpera).</li>
+<li>Fixed unnecessary character sanitation when setting clipboard data.</li>
+<li>Fixed sup- and superscript export issue.</li>
+</ul>
+<h2 id="0161">0.16.1<a class="anchor" aria-hidden tabindex="-1" href="#0161">#</a></h2>
+<ul>
+<li>Fix: Settings page, editor settings are messed up</li>
+</ul>
+<h2 id="0160">0.16.0<a class="anchor" aria-hidden tabindex="-1" href="#0160">#</a></h2>
+<p><strong>:warning:Breaking Changes:</strong></p>
+<ul>
+<li>Temporary disabled hardware acceleration (GPU) on Linux with Wayland due to rendering issues with the frameless window.</li>
+</ul>
+<p><strong>:cactus:Feature</strong></p>
+<ul>
+<li>Added experimental spellchecker (#1424)</li>
+<li>Allow custom fonts in settings via font family picker (#1107)</li>
+<li>Allow cycle through tabs via shortcuts (#1124)</li>
+<li>Allow to close tabs by mouse middle click (#1266)</li>
+<li>Added export and print options (#1511)</li>
+<li>Added Windows jump list entries (#1503)</li>
+<li>Added file encoding support (#1438)</li>
+<li>Added support for TOML and JSON front matter (#1402)</li>
+<li>Added menu for tabs by @kenyx89 (#1434)</li>
+<li>Feat: Support inline image and small image (#1094)</li>
+<li>Feature: github uploader can customize branch (#1328)</li>
+<li>Search image by unsplash (#1333)</li>
+<li>Feature: resize image and toggle inline and block image (#1335)</li>
+<li>Feature: parse page title when paste a link (#1344)</li>
+<li>Feature: add link tools: unlink and jump (#1357)</li>
+<li>Feature: support GFM auto link and auto link extension (#1421)</li>
+<li>Support RegExp search and replace in file edit. (#1422)</li>
+<li>Feature: support markdown extension superscript and subscript (#1531)</li>
+<li>Feature: CTRL/CMD+SHIFT+F opens sidebar and focuses on "search in folder" (#1311)</li>
+<li>Feature: add highlight menu item (#1532)</li>
+<li>Support footnote (#193, #1568)</li>
+</ul>
+<p><strong>:butterfly:Optimization</strong></p>
+<ul>
+<li>Added loading animation during startup</li>
+<li>Added alt accelerator on Linux and Windows (#1254)</li>
+<li>Added per-tab notifications for file changes</li>
+<li>Optimized package size and startup time</li>
+<li>Prevent parse a url as link (#1301)</li>
+<li>Add loading page when init app (#1303)</li>
+<li>Search input now searches on keypress @Illyism (#1306)</li>
+<li>Search shows open folder warning, no results text and errors @Illyism (#1312)</li>
+<li>Reordered font settings to show editor and source-code font settings at the top. (#1204)</li>
+<li>Add whether to trim the beginning and end empty line of code block, add setting option, the default value is trim the empty line. (#1378)</li>
+<li>Optimization of code block (#1445)</li>
+<li>Optimization of table block (#1456)</li>
+<li>Add tooltip to format tool bar (#1516)</li>
+</ul>
+<p><strong>:beetle:Bug fix</strong></p>
+<ul>
+<li>Fixed recommend title exception when heading contains spaces only (#1281)</li>
+<li>Fixed main process exception (#1284)</li>
+<li>Fixed application freeze when using PageDown/PageUp in special cases (#655)</li>
+<li>Fixed HTML paste handler (#1271)</li>
+<li>Fixed save all tab order (#1349)</li>
+<li>Fixed additional page that may was added due to padding (#1480)</li>
+<li>Fixed recently directories (#1486)</li>
+<li>Fixed invalid screen area on Windows (#1474)</li>
+<li>Fixed UTF-BOM file loading issue (#1438)</li>
+<li>Fixed multiple potential issues with menu entries (#1437)</li>
+<li>Fixed display issues with long text in source-code editor (#1427)</li>
+<li>Fixed issue that <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>keybindings.json</span></span></code></span> was not respected (#1406)</li>
+<li>Fixed settings checkbox width by @mdogadailo (#1471)</li>
+<li>Fixed line transformer and tooltip arrow style by @mdogadailo (#1441, #1443)</li>
+<li>Fixed HTML <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>pre</span></span></code></span> tag style in preview editor by @mdogadailo (#1441, #1443)</li>
+<li>Fixed vega-lite render error (#1295)</li>
+<li>Fixed correct url when there are pair brackets in link url or image src (#1308)</li>
+<li>Fixed update paragraph menu item <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>task list</span></span></code></span> error (#1331)</li>
+<li>Fixed #1299 add system emoji fallback fonts (#1348)</li>
+<li>Numbered list styles change when exporting PDF (#1145)</li>
+<li>Fixed error with text input (#1324)</li>
+<li>Fixed delete unintended content when &#x3C;> exists (#1336, #1366)</li>
+<li>Fixed new check list items are already checked (#1267)</li>
+<li>Fixed the last empty line in code block disappear (#1265)</li>
+<li>Fixed linked images are not rendered (#1297)</li>
+<li>Fixed checkbox text not aligned with box (#1135)</li>
+<li>Fixed XSS security vulnerability when parsing inline HTML (#1390)</li>
+<li>Exception when deleting code block identifier (#1231)</li>
+<li>Fixed sidebar overflow due to opened files (#1391)</li>
+<li>Fixed sometimes the table of contents is not cleared after the document is closed (#1249)</li>
+<li>GitHub image uploader cannot be set as default uploader (#1247)</li>
+<li>Fixed Side bar show <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>html</span></span></code></span> and <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>pdf</span></span></code></span> files when add new <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>html</span></span></code></span>, <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>pdf</span></span></code></span> files to opened folder (#1401)</li>
+<li>Fixed image is missing if change to source code mode (#1337)</li>
+<li>Fix: #1061 no need to auto pair in inline code (#1423)</li>
+<li>Fix: #1218 backspace error in table cell (#1425)</li>
+<li>Fixed unable to open markdown file by command line (#1429)</li>
+<li>Fix: #1418 Set file watch option usePolling to true on macOS (#1430)</li>
+<li>Fix the download section anchor @heytitle (#1440)</li>
+<li>Fix: wrap long lines and a little bit of padding for pre element (#1470)</li>
+<li>Regression: math block edit and preview box (#982)</li>
+<li>Cannot reach first line of code block (#1460)</li>
+<li>Failure when writing HTML in preview editor (#1464)</li>
+<li>Backspace key error when cursor at the beginning of header (#1509)</li>
+<li>Fix some grammar or spelling errors (#1524)</li>
+<li>Content is still editable when dialog is shown (#1489)</li>
+<li>Fixed error: Cannot read property 'webContents' of undefined (#1508)</li>
+<li>Document can't be exported when inline formulas are in other blocks than paragraph (#1522)</li>
+<li>Wrong task-list item alignment (#1540)</li>
+</ul>
+<h2 id="0151">0.15.1<a class="anchor" aria-hidden tabindex="-1" href="#0151">#</a></h2>
+<p>v0.15.1 is an unplanned release to fix a XSS security vulnerability.</p>
+<p><strong>:beetle:Bug fix</strong></p>
+<ul>
+<li><strong>Fixed a XSS security vulnerability when parsing inline HTML (#1390)</strong></li>
+<li>Fixed portable mode detection if current working directory don't match the application directory (#1382)</li>
+<li>Fixed exception in main process due to file watcher (#1284)</li>
+<li>Added emoji fallback fonts for macOS and Windows too (#1299)</li>
+<li>Fixed RegEx for recommend title (#1128)</li>
+</ul>
+<h2 id="0150">0.15.0<a class="anchor" aria-hidden tabindex="-1" href="#0150">#</a></h2>
+<p><strong>:warning:Breaking Changes:</strong></p>
+<ul>
+<li><span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>preference.md</span></span></code></span> is deprecated and no longer supported. Please use the GUI.</li>
+<li>Removed portable Windows executable. NSIS installer can now be used to install per-user (without administrator privileges) or machine wide.</li>
+<li>Added portable zip archive for both x86 and x64 Windows.</li>
+<li>Changed <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>viewToggleFullScreen</span></span></code></span> and <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>windowCloseWindow</span></span></code></span> key bindings to <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>windowToggleFullScreen</span></span></code></span> and <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>fileCloseWindow</span></span></code></span>.</li>
+<li>Removed <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>viewChangeFont</span></span></code></span> key binding.</li>
+<li>Inkiva is now single-instance application on Linux and Windows too.</li>
+</ul>
+<p><strong>:cactus:Feature</strong></p>
+<ul>
+<li>feat: add underline format (#946)</li>
+<li>Added GUI settings (#1028)</li>
+<li>The cursor jump to the end of format or to the next brackets when press <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>tab</span></span></code></span>(#976)</li>
+<li>Tab drag &#x26; drop inside the window</li>
+<li>add tab scrolling and drag&#x26;drop (#953)</li>
+<li>Support to replace the root folder in a window</li>
+<li>Second-instance files and directories via command-line are opened in the best window</li>
+<li>Inkiva can use a default directory that is automatically opened during startup (#711)</li>
+<li>New CLI flags: <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>--disable-gpu</span></span></code></span>, <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>-n,--new-window</span></span></code></span> and <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>--user-data-dir</span></span></code></span></li>
+<li>Find in files use ripgrep as searcher.</li>
+<li>You can know automatically save your document after a predefined intervall.</li>
+<li>feat: support prism language alias (#1031)</li>
+<li>Allow to set editor line width <del>and window zoom</del> (disabled due #1225) (#1092)</li>
+<li>feat: add click delete url to clipboard when upload image to SMMS (#1173)</li>
+</ul>
+<p><strong>:butterfly:Optimization</strong></p>
+<ul>
+<li>optimization of cursor, and fix some cursor related issues (#963)</li>
+<li>Rewrite <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>select all</span></span></code></span> when press <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>CtrlOrCmd + A</span></span></code></span> (#937)</li>
+<li>Set the cursor at the end of <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>#</span></span></code></span> in header when press arrow down to jump to the next paragraph.(#978)</li>
+<li>Improved startup time</li>
+<li>Replace empty untitled tabs (#830)</li>
+<li>Editor window is shown immediately while loading</li>
+<li>Adjust titlebar title when using native window to not show a duplicate title</li>
+<li>Added <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>Noto Color Emoji</span></span></code></span> as default emoji fallback font on Linux to display emojis properly.</li>
+<li>feat: add two event focus and blur of muya (#1039)</li>
+<li>opti: add katex css only when there is math fomular in export html (#1038)</li>
+<li>Refactor inline image to support paste/drop image (#1028)</li>
+<li>opti: insert last paragraph when the last block is table, code block or no-empty paragraph (#1069)</li>
+<li>Opti: update TOC if needed (#1088)</li>
+<li>feat: scroll to cursor when switch between tabs (#1089)</li>
+<li>add: auto save with delay (#1093)</li>
+<li>Opt-in uploader services and add legal notices (#1113)</li>
+<li>Add ripgrep as find in files backend (#1086)</li>
+</ul>
+<p><strong>:beetle:Bug fix</strong></p>
+<ul>
+<li>Fixed some CommonMark failed examples and add test cases (#943)</li>
+<li>fix: #921 reference link render error (#947)</li>
+<li>fix: #926 summary element can not be click (#948)</li>
+<li>fix: #870 list parse error (#964)</li>
+<li>Fixed some bugs after press <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>backspace</span></span></code></span> (#934, #938)</li>
+<li>Changed <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>inline math</span></span></code></span> vertical align to <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>top</span></span></code></span> (#977)</li>
+<li>Prevent to open the same file twice, instead select the existing tab (#878)</li>
+<li>Fixed some minor filesystem watcher issues</li>
+<li>Fixed rename filesystem watcher bug which lead to multiple issues because the parent directory was watched after deleting a file on Linux using <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>rename</span></span></code></span></li>
+<li>Fixed incorrect file content after a watched file was edited externally (#1043)</li>
+<li>fix: toc content vanish bug (#1021)</li>
+<li>fix paragraph turn into list bug (#1025)</li>
+<li>fix: #1018 paste error when the lastblock is html block (#1042)</li>
+<li>fix: parse inline syntax error (#1072)</li>
+<li>fix: insert image by image uploader, but can not copy and paste, because it is render the local url (#1070)</li>
+<li>Fix: #1045 can not select all content in source code mode (#1085)</li>
+<li>fix: TOC level error (#1087)</li>
+<li>fix watcher out of range exception (#1095)</li>
+<li>Opti: image icon style (#1098)</li>
+<li>delete image triggers muya change (#1125)</li>
+</ul>
+<p><strong>:warning:Breaking Development Changes:</strong></p>
+<ul>
+<li>Environment variable <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>MARKTEXT_IS_OFFICIAL_RELEASE</span></span></code></span> is now <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>MARKTEXT_IS_STABLE</span></span></code></span></li>
+<li>Renamed npm script <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>build:dir</span></span></code></span> to <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>build:bin</span></span></code></span></li>
+</ul>
+<h3 id="0140">0.14.0<a class="anchor" aria-hidden tabindex="-1" href="#0140">#</a></h3>
+<p>This update <strong>fixes a XSS security vulnerability</strong> when exporting a document.</p>
+<p><strong>:warning:Breaking Changes:</strong></p>
+<ul>
+<li>Minimum supported macOS version is 10.10 (Yosemite)</li>
+<li>Remove <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>lightColor</span></span></code></span> and <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>darkColor</span></span></code></span> in user preference (color change in view menu does not work any, and will remove when add custom theme.)</li>
+<li>We recommend user not use block element in paragraph, please use block element in html block.</li>
+</ul>
+<p><em>Not Recommended</em></p>
+<figure data-rehype-pretty-code-figure=""><div class="code"><div class="code-bar"><span class="lang">md</span><button class="copy-btn" type="button" data-copy="foo<section>bar</section>zar" aria-label="Copy code"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg><span class="label">Copy</span></button></div><pre tabindex="0" data-language="md" data-theme="github-dark-dimmed github-light"><code data-language="md" data-theme="github-dark-dimmed github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#ADBAC7;--shiki-light:#24292E">foo&#x3C;section>bar&#x3C;/section>zar</span></span></code></pre></div></figure>
+<p><em>Recommended</em></p>
+<figure data-rehype-pretty-code-figure=""><div class="code"><div class="code-bar"><span class="lang">md</span><button class="copy-btn" type="button" data-copy="<div>
+  foo
+  <section>
+    bar
+  </section>
+  zar
+</div>" aria-label="Copy code"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg><span class="label">Copy</span></button></div><pre tabindex="0" data-language="md" data-theme="github-dark-dimmed github-light"><code data-language="md" data-theme="github-dark-dimmed github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#ADBAC7;--shiki-light:#24292E">&#x3C;div></span></span>
+<span data-line=""><span style="--shiki-dark:#ADBAC7;--shiki-light:#24292E">  foo</span></span>
+<span data-line=""><span style="--shiki-dark:#ADBAC7;--shiki-light:#24292E">  &#x3C;section></span></span>
+<span data-line=""><span style="--shiki-dark:#ADBAC7;--shiki-light:#24292E">    bar</span></span>
+<span data-line=""><span style="--shiki-dark:#ADBAC7;--shiki-light:#24292E">  &#x3C;/section></span></span>
+<span data-line=""><span style="--shiki-dark:#ADBAC7;--shiki-light:#24292E">  zar</span></span>
+<span data-line=""><span style="--shiki-dark:#ADBAC7;--shiki-light:#24292E">&#x3C;/div></span></span></code></pre></div></figure>
+<p><strong>:cactus:Feature</strong></p>
+<ul>
+<li>Improve exception and error handling</li>
+<li>Support for user-defined titlebar style</li>
+<li>Support to open files in a new tab instead a new window (#574)</li>
+<li>Add inline math to format menu and float box (#649)</li>
+<li>GTK integration (#690)</li>
+<li>Add recently used directories to recently opened files (#643)</li>
+<li>Making images display smaller (#659)</li>
+<li>Open local markdown file when you click on it in another tab (#359)</li>
+<li>Clicking a link should open it in the browser (#425)</li>
+<li>Support maxOS <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>dark mode</span></span></code></span>, when you change <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>mode dark or light</span></span></code></span> in system, Inkiva will change its theme.</li>
+<li>Add new themes: Ulysses Light, Graphite Light, Material Dark and One Dark.</li>
+<li>Watch file changed in tabs and show a notice(autoSave is <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>false</span></span></code></span>) or update the file(autoSave is <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>true</span></span></code></span>)</li>
+<li>Support input inline Ruby charactors as raw html (#257)</li>
+<li>Added unsaved tab indicator</li>
+<li>Add front Menu by click the front menu icon (#875)</li>
+<li>Support diagram: <a href="https://github.com/adrai/flowchart.js" class="link">flowchart</a>, <a href="https://github.com/vega/vega-lite" class="link">vega-lite</a>, <a href="https://github.com/knsv/mermaid" class="link">mermaid</a>, <a href="https://github.com/bramp/js-sequence-diagrams" class="link">sequence</a> (#914)</li>
+<li>Support create indent code block in preview mode.(#920)</li>
+</ul>
+<p><strong>:butterfly:Optimization</strong></p>
+<ul>
+<li>Respect existing image title if no source is specified (#562)</li>
+<li>Separate font and font size for code blocks and source code mode (#373, #467)</li>
+<li>Opened files and opened directories/files can now be folded (#475, #602)</li>
+<li>You can now hide the quick insert hint (#621)</li>
+<li>Adjusted quote inline math color (#592)</li>
+<li>Fix inline math text align (#593)</li>
+<li>Added MIME type to Linux desktop file</li>
+<li>What is the character and number of left-top? (#666)</li>
+<li>Inserting Codeblock should automatically set cursor into language field (#684)</li>
+<li>Upstream: prismjs highlighting issues (#709)</li>
+<li>Improvements for "Open Recent" (#616)</li>
+<li>Make table of contents in sidebar collapsible (#404)</li>
+<li>Hide titlebar control buttons in custom titlebar style</li>
+<li>Corrected hamburger menu offset</li>
+<li>Optimization of inline html displa, now you can nest other inline syntax in inline html(#849)</li>
+<li>Use CmdOrCtrl + C/V to copy rich text to <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>word</span></span></code></span>(Windows) or <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>page</span></span></code></span>(macOS) (#885)</li>
+</ul>
+<p><strong>:beetle:Bug fix</strong></p>
+<ul>
+<li>Fix dark preview box background color (#587)</li>
+<li>Use white PDF background color (#583)</li>
+<li>Fix document printing</li>
+<li>Restore default Inkiva style after exporting/printing</li>
+<li>Prevent enter key as language identifier (#569)</li>
+<li>Allow pasting text into the code block language text-box (#553)</li>
+<li>Fixed a crash when opening a directory with an unknown file extension</li>
+<li>Fixed an issue with <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>Save all</span></span></code></span> and <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>Delete all</span></span></code></span> buttons in the side bar</li>
+<li>Fixed exception when exporting a code block (#591)</li>
+<li>Fixed recommended filename</li>
+<li>Fixed multiple sidebar issues</li>
+<li>Fixed wrong font and theme when opening a directory (#696)</li>
+<li>Switching to another tab will now work in source-code mode too (#606)</li>
+<li>Fixed forced line break in a list is display wrong. (#672)</li>
+<li>Relative images are broken after exporting (#678)</li>
+<li>Unable to paste text in table cell(#670)</li>
+<li>Wrong padding when copy loose list to tight list(#706)</li>
+<li>Display Autocompletion in inline math(#673)</li>
+<li>Unable to export a document when the language identifier is undefined(#591)</li>
+<li>Incorrect rendering of pipe in code block within table(#660)</li>
+<li>Using extended code identifiers breaks code blocks (#697)</li>
+<li>Renderer exception when pasting text with new line(s) into a heading (#671)</li>
+<li>Fatal error when a directory is removed (#661)</li>
+<li>Wrong font and theme when opening file/directory (#696)</li>
+<li>Automatically wrap code block lines when printing or exporting as PDF (#710)</li>
+<li>Can't change tab in source code mode (#606)</li>
+<li>Minor checkbox list bug (#576)</li>
+<li>A hard line break followed by a list doesn't work in preview mode (#708)</li>
+<li>Ctrl + X (#622)</li>
+<li>Exception when removing a code block in a specific case (#568)</li>
+<li>List items are always copied as loose list (#705)</li>
+<li>Runtime bug when insert order list by quick insert (#760)</li>
+<li>Image inside HTML is not loaded (#754)</li>
+<li>No space around copy-pasted links (#752)</li>
+<li>Relative image reference in HTML is broken (#782)</li>
+<li>Selection cannot be cancelled by up / down keys (#630)</li>
+<li>Cannot create table while in typewriter mode (#679)</li>
+<li>Emojis don't work properly (#769)</li>
+<li>Fixed multiple parser issues (update marked.js to v0.6.1)</li>
+<li>Fixed nest math block issue (#586)</li>
+<li>Can't make a comma-separated list of dollar ($) amounts (#740)</li>
+<li>Fixed [...] is displayed in gray and orange (#432)</li>
+<li>Fixed an issue that relative images are not loaded after closing a tab</li>
+<li>Add symbolic link support</li>
+<li>Fixed bug when combine pre list and next list into one when inline update #707</li>
+<li>Fix renderer error when selection in sidebar (#625)</li>
+<li>Fixed list parse error <a href="https://github.com/Bulls1986/Inkiva/issues/831#issuecomment-477719256" class="link">more info</a></li>
+<li>Fixed source code mode tab switching</li>
+<li>Fixed source code mode to preview switching</li>
+<li>Inkiva didn't remove highlight when I delete the markdown symbol like * or `. (#893)</li>
+<li>After delete ``` at the beginning to paragraph by backspace, then type other text foo, the color will be strange, if you type 1. bar. error happened. (#892)</li>
+<li>Fix highlight error in code block (#545 #890)</li>
+<li>Fix files sorting in folder (#438)</li>
+</ul>
+<h3 id="01365">0.13.65<a class="anchor" aria-hidden tabindex="-1" href="#01365">#</a></h3>
+<p><strong>:butterfly:Optimization</strong></p>
+<ul>
+<li>Show tab bar when opening a new tab</li>
+<li>Use default bold (<span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>CmdOrCtrl+B</span></span></code></span>) and italics (<span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>CmdOrCtrl+I</span></span></code></span>) key binding (#346)</li>
+<li>Don't show save dialog for an empty document (#422)</li>
+<li>Sidebar and tab redesign</li>
+<li>Calculate artifact checksum after uploading (#566)</li>
+<li>Use <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>CmdOrCltr+Enter</span></span></code></span> to add table row below.</li>
+</ul>
+<p><strong>:beetle:Bug fix</strong></p>
+<ul>
+<li>fix: #451 empty list item error</li>
+<li>fix: #522 paste bug when paste into empty line</li>
+<li>fix: #521</li>
+<li>fix: #534</li>
+<li>fix: #535 Application menu is not updated when switching windows</li>
+<li>fix #216 and #311 key binding issues on Linux and Windows</li>
+<li>fix #546 paste issue in table</li>
+<li>fix: Blank document was always encoded as <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>LF</span></span></code></span></li>
+<li>fix: #541</li>
+</ul>
+<h3 id="01350">0.13.50<a class="anchor" aria-hidden tabindex="-1" href="#01350">#</a></h3>
+<p><strong>:cactus:Feature</strong></p>
+<ul>
+<li>(#421) Add experiment function RTL support (#439)</li>
+<li>feat: #487 Show filename while hovering over inkiva file on dock</li>
+<li>feat: export files in file menu</li>
+<li>feat: drag to import</li>
+<li>feat: quick insert paragraph</li>
+<li>feat: inline format float box</li>
+<li>feat: import files: TEX\ WIKI\ DOCX etc</li>
+<li>feat: portable Windows application (#369)</li>
+<li>feat: support search and replace in code block</li>
+<li>feat: support GFM diff in code block</li>
+<li>feat: suppoet quick input html in html block, eg: input div, press <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>tab</span></span></code></span> will auto input &#x3C;div>&#x3C;/div></li>
+</ul>
+<p><strong>:butterfly:Optimization</strong></p>
+<ul>
+<li>Update linux documentation and remove snappy build (#381)</li>
+<li>Update Japanese Document Latest Release Update.</li>
+<li>add alfred workflow into readme (#394)</li>
+<li>French translation of README.md (#398)</li>
+<li>optimization: add gauss blur effect when open a modal (#407)</li>
+<li>Improvement math preview styles (#419) (#424)</li>
+<li>Turkish language translation for README.md (#427)</li>
+<li>Improvement: #414 Add functional bracket auto-completion (#428)</li>
+<li>feature: vscode debug config support (#446)</li>
+<li>Exclude hard-line-break from printing. (#454)</li>
+<li>export styled HTML with heading id's (#460)</li>
+<li>opti: #485 Open Project command. Maybe rename to Open folder</li>
+<li>Added Spanish translation (#499)</li>
+<li>feat: add tooltip to editor</li>
+<li>opti: #429 Support DataURL images (#480)</li>
+<li>opti: rewrite image picker</li>
+<li>opti: notify the user about the deletion url of the uploaded image</li>
+<li>rewrite code block, html block, math block, front matter</li>
+</ul>
+<p><strong>:beetle:Bug fix</strong></p>
+<ul>
+<li>fix download url in docs. (#379)</li>
+<li>fix: #371 wrong paste behavior</li>
+<li>fix: #380 wrong action of list shortcut</li>
+<li>bugfix: inline math style error in list item (#405)</li>
+<li>bugfix: #406 relative image path not display (#411)</li>
+<li>bugfix: #400 (#410)</li>
+<li>fix: wrong mouse click position #416 (#423)</li>
+<li>fix: title bar resizing in north direction (#455)</li>
+<li>fix: #441 #451 empty list item has no paragraph (#456)</li>
+<li>fix: task list item centering (#457)</li>
+<li>fix: #402 table of contents sidebar scroll bug (#461)</li>
+<li>fix: recommend filename can be empty (#462)</li>
+<li>Formatting cleanups (#463)</li>
+<li>Arrow key up/down navigation in a table (#470)</li>
+<li>fix: #481 add missing dot to parser markdown files only (#483)</li>
+<li>fix: YAML frontmatter duplicates a new line on each opening of the file #494</li>
+<li>fix(#431): broken math expression</li>
+<li>fix(#434): no need to auto pair in math block</li>
+<li>fix(#450) style error when render inline math</li>
+<li>fix: #399 #476 #490 math render with style miss</li>
+<li>fix: #393</li>
+</ul>
+<h3 id="01225">0.12.25<a class="anchor" aria-hidden tabindex="-1" href="#01225">#</a></h3>
+<p><strong>:cactus:Feature</strong></p>
+<p><strong>:butterfly:Optimization</strong></p>
+<ul>
+<li>optimization: #361 easy sidebar toggle (#368)</li>
+</ul>
+<p><strong>:beetle:Bug fix</strong></p>
+<ul>
+<li>fix: #348 do not export tabs and sidebar when export PDF</li>
+<li>bugfix: #360 No page breaks in PDF export</li>
+<li>bugfix: #167 #357 #344</li>
+<li>fix: #343 Inconsistent color scheme in source code mode (#363)</li>
+</ul>
+<h3 id="01220">0.12.20<a class="anchor" aria-hidden tabindex="-1" href="#01220">#</a></h3>
+<p><strong>:cactus:Feature</strong></p>
+<ul>
+<li>feature: file list in side bar: tree view and list view. #71</li>
+<li>feature: search in project in side bar.</li>
+<li>feature: table of content of the current edit file.</li>
+<li>feature: copy table from Number(MacOs App)</li>
+<li>feature: new file, new directory, copy, cut, paste, rename, remove to trash in side bar.</li>
+<li>feature: save all the opened files and close all the opened files.</li>
+<li>feature: Support reference link. #297</li>
+<li>feature: Support reference image.</li>
+<li>feature: copy table in context menu (#331)</li>
+<li>feature: feedback via twitter</li>
+<li>feature: can use delete key now, #301</li>
+</ul>
+<p><strong>:butterfly:Optimization</strong></p>
+<ul>
+<li>optimization: rewirte table picker use popper</li>
+<li>optimization: add animation to checkbox when clicked</li>
+<li>Bundle desktop files and resources (#336)</li>
+<li>Rewrite notification (#337)</li>
+</ul>
+<p><strong>:beetle:Bug fix</strong></p>
+<ul>
+<li>fix: can not copy full link #312</li>
+<li>fix: can not export table markdown #313</li>
+<li>bugfix: #328 source code mode shortcut not work (#332)</li>
+<li>bugfix: copy paste title delete text #321 (#333)</li>
+<li>fix: text cursor skip lines in paragraph #330</li>
+</ul>
+<h3 id="01142">0.11.42<a class="anchor" aria-hidden tabindex="-1" href="#01142">#</a></h3>
+<p><strong>:cactus:Feature</strong></p>
+<ul>
+<li>feature: add editorFont setting in user preference. (#175) - Anderson</li>
+<li>feature: line break, support event and import and export markdown - Jocs</li>
+<li>feature: unindent list item - Jocs</li>
+<li>feature: Support for CRLF and LF line endings</li>
+<li>feature: Click filename to <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>rename</span></span></code></span> or <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>save</span></span></code></span> in title bar(<strong>macOS ONLY</strong>).</li>
+<li>feature: Support YAML Front Matter</li>
+<li>feature: Support <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>setext</span></span></code></span> heading but the default heading style is <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>atx</span></span></code></span></li>
+<li>feature: User list item marker setting in preference file.</li>
+<li>feature: Select text from selected table (cell) only if you press Ctrl+A</li>
+<li>feature: Support Multiple lines math #242</li>
+<li>feature: Support context menu: <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>copy</span></span></code></span>, <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>cut</span></span></code></span>, <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>paste</span></span></code></span>, <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>insert paragraph</span></span></code></span>, <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>edit table rows and columns</span></span></code></span> #169</li>
+</ul>
+<p><strong>:butterfly:Optimization</strong></p>
+<ul>
+<li>ATX headings strictly follow the GFM Spec #177 - Jocs</li>
+<li>no need to auto pair when * is to open a list item - Jocs</li>
+<li>optimization: add sticky to block html tag - Jocs</li>
+<li>Add Japanese readme (#191) - Neetshin</li>
+<li>Disable update menu for snap and not supported packages (#196) - Felix Häusler</li>
+<li>Check whether window size is larger than screen size (#192) - Felix Häusler</li>
+<li>Add fallback editor font family (#209) - Felix Häusler</li>
+<li>Use <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>partialRender</span></span></code></span> instead of <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>render</span></span></code></span> when render the file, this will speed up the render phase.</li>
+<li>optimization: reduce the width of scroll bar in float box.</li>
+<li>Smaller scrollbars and hover color (#245)</li>
+<li>update electron to v2.0.2 [SECURITY]</li>
+<li>Add support for tab indentation (#125)</li>
+</ul>
+<p><strong>:beetle:Bug fix</strong></p>
+<ul>
+<li>fix: #94 history error</li>
+<li>fix: #213 style error when render math</li>
+<li>fix: the error 'Cannot read property 'forEach' of undefined' (#178) - 鸿则</li>
+<li>fix: Change Source Code Mode Accelerator (#180) - Mice</li>
+<li>fix: #153 Double space between tasklist checkbox and text - Jocs</li>
+<li>fix: #198 navigation in table</li>
+<li>fix: #190 Delete user settings on uninstall (NSIS) (#203) - Felix Häusler</li>
+<li>fix: html block style error when active - Jocs</li>
+<li>fix: PDF Export is contacted by LaTeX hightlight #194</li>
+<li>fix: Table inside a list is not supported #202</li>
+<li>fix: Cannot open file when window is started maximized or in full-screen mode #217</li>
+<li>fix: #243 (#260)</li>
+<li>fix: #232 (#259)</li>
+<li>fix: #251</li>
+<li>fix: #248 dark background disappears when export PDF (#252)</li>
+<li>fix: #231 cut not work in code block</li>
+<li>fix: #274 can not selection codes in code block when the cursor is outside of code block.</li>
+<li>fix: frameless window drag</li>
+<li>fix: #79 detect image type by mime type</li>
+</ul>
+<h3 id="01021">0.10.21<a class="anchor" aria-hidden tabindex="-1" href="#01021">#</a></h3>
+<p><strong>:notebook_with_decorative_cover:​Note</strong></p>
+<p>You need uninstall the old version of Inkiva before install version 0.10.21, because we changed the AppId when build.</p>
+<p><strong>:cactus:Feature</strong></p>
+<ul>
+<li>block html #110</li>
+<li>raw html #110</li>
+<li>you can now indent list items with tab key</li>
+<li>auto pair <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>markdown syntax</span></span></code></span>, <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>quote</span></span></code></span>, <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>bracket</span></span></code></span></li>
+<li>ability to insert an empty line between elements #33</li>
+<li>recently used documents on Linux and Windows (#139)</li>
+</ul>
+<p><strong>:butterfly:Optimization</strong></p>
+<ul>
+<li>Update third-party packages to the latest version</li>
+<li>Use HTTPS instead of HTTP (#158)</li>
+<li>Add Polish readme (#154)</li>
+<li>Optimization: sanitize html to avoid XSS attack #127 (#132)</li>
+</ul>
+<p><strong>:beetle:Bug fix</strong></p>
+<ul>
+<li>fix: update outdated preferences on startup #100</li>
+<li>fix: reset modification indicator after successfully saved changes</li>
+<li>fix: disable tab focus</li>
+<li>fix: strong and em parse error #116</li>
+<li>fix horizontal line style #120</li>
+<li>fix user preferences #122</li>
+<li>fix: style error when export PDF/HTML with hr @Jocs</li>
+<li>fix UTF-8 BOM encoding</li>
+<li>fix: #162 support php language</li>
+<li>fix: #152 emoji error</li>
+<li>fix: #149 can not delete code block content</li>
+</ul>
+<h3 id="0925">0.9.25<a class="anchor" aria-hidden tabindex="-1" href="#0925">#</a></h3>
+<p><strong>:cactus:Feature</strong></p>
+<ul>
+<li>display and inline math support #36</li>
+<li>Image path auto complement #96</li>
+<li>Feature: Toggle loose list item in paragraph menu #103</li>
+<li>Add loose and tight list compatibility #74</li>
+</ul>
+<p><strong>:butterfly:Optimization</strong></p>
+<ul>
+<li>adjust lineHeight and fontSize in typewriter mode</li>
+<li>optimization of output unstylish html @fxha</li>
+<li>Use 'fuzzaldrin' to filter language when insert code block</li>
+<li>Optimization: Obey the GFM and optimization of thematic break update. - Jocs</li>
+<li>Optimization: More than six # characters is not a heading So we don't need to highlight <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>#</span></span></code></span> - Jocs</li>
+<li>Optimization: A closing sequence of # characters is optional when write ATX heading - Jocs</li>
+<li>Optimization: watch image path change and rebuild the cache - Jocs</li>
+<li>Update: update vue and snabbdom to the latest version - Jocs</li>
+<li>Optimization: Use 'fuzzaldrin' to filter language when insert code block - Jocs</li>
+<li>Update travis-ci (#92) - Felix Häusler</li>
+</ul>
+<p><strong>:beetle:Bug fix</strong></p>
+<ul>
+<li>fix: #81</li>
+<li>fix: #55</li>
+<li>fix: #63</li>
+<li>fix: crash on first launch due missing directory (#78, #90, #93)</li>
+<li>fix: #101</li>
+<li>Bugfix: #112 - Jocs</li>
+<li>Bugfix: can not empty the content in source code mode #105 - Jocs</li>
+<li>Bugfix: #107</li>
+<li>fix: #88 (#108) - Felix Häusler</li>
+<li>Allow exiting full screen with maximize button on windows (#109) - Felix Häusler</li>
+<li>Bugfix: Caret can not move right when it's at the end of math format. #101 - Jocs</li>
+</ul>
+<h3 id="0812">0.8.12<a class="anchor" aria-hidden tabindex="-1" href="#0812">#</a></h3>
+<p><strong>:cactus:Feature</strong></p>
+<ul>
+<li>Add user preferences in <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>Inkiva menu</span></span></code></span>, the shoutcut is <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>CmdorCtrl + ,</span></span></code></span>, you can set the default <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>theme</span></span></code></span> and <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>autoSave</span></span></code></span>.</li>
+<li>Add <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>autoSave</span></span></code></span> to <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>file menu</span></span></code></span>, the default value is in <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>preferences.md</span></span></code></span> which you can open in <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>Inkiva menu</span></span></code></span>. #45</li>
+<li>Add drag and drop to open Markdown file with Inkiva @fxha</li>
+<li>User setting: fontSize, lineHeight, color in realtime mode.</li>
+<li>Move your file to other folder @DXXL</li>
+<li>Rename filename</li>
+</ul>
+<p><strong>:butterfly:Optimization</strong></p>
+<ul>
+<li>Theme can be saved in user preferences now #16</li>
+<li>Custom About dialog @fxha</li>
+</ul>
+<p><strong>:beetle:Bug fix</strong></p>
+<ul>
+<li>fix: prevent open image or file directly when drag and drop over Inkiva #42</li>
+<li>fix: set theme to all the open window not just the active one.</li>
+<li>fix: set correct application menu offset on windows #44</li>
+<li>fix: Missing preferences menu in Linux and Windows. @fxha</li>
+</ul>
+<h3 id="0717">0.7.17<a class="anchor" aria-hidden tabindex="-1" href="#0717">#</a></h3>
+<p><strong>Features</strong></p>
+<ol>
+<li>
+<p>Check for updates..., and auto update when update available.(Still need signature...:cry:)</p>
+</li>
+<li>
+<p>Insert Image: ( In edit menu )</p>
+<ul>
+<li>
+<p>absolute path</p>
+</li>
+<li>
+<p>relative path</p>
+</li>
+<li>
+<p>Upload Image to cloud</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Add file icons to languages when create code block or change language in code block.</p>
+</li>
+</ol>
+<p><strong>Bug fix</strong></p>
+<ol>
+<li>
+<p>It's hard to focus the input in code fence.</p>
+</li>
+<li>
+<p>When input the language in code block, click the language item will not cause hide the float box.</p>
+</li>
+<li>
+<p>other bugs in code block.</p>
+</li>
+<li>
+<p>Windows user can not use open with feature.</p>
+</li>
+<li>
+<p>The menu disapear in Linux sysyem.</p>
+</li>
+<li>
+<p>Fix the bug that the language highlight disapear when open markdown file with code block</p>
+</li>
+<li>
+<p>remove the symbol in output styled html. #41</p>
+</li>
+<li>
+<p>escape the raw Markdown when open the markdown file. #37</p>
+</li>
+</ol>
+<p><strong>Optimization</strong></p>
+<ol>
+<li>
+<p>allow user to change install directory on windows.</p>
+</li>
+<li>
+<p>Show notification when output HTML and PDF successfully.</p>
+</li>
+<li>
+<p>update css-tree to latest version.</p>
+</li>
+<li>
+<p>Add lineWrapping is true to codeMirror config</p>
+</li>
+</ol>
+<h3 id="0614">0.6.14<a class="anchor" aria-hidden tabindex="-1" href="#0614">#</a></h3>
+<p><strong>Features</strong></p>
+<ul>
+<li>
+<p>Add <strong>dark</strong> theme and <strong>light</strong> theme in both realtime preview mode and source code mode.</p>
+</li>
+<li>
+<p>Insert <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>doutu</span></span></code></span> into the document, use CMD + / to open the panel.</p>
+</li>
+</ul>
+<p><strong>Optimization</strong></p>
+<ul>
+<li>
+<p>Customize the scroll bar background color and thumb color.</p>
+</li>
+<li>
+<p>Add collection of doutu.</p>
+</li>
+<li>
+<p>Add History search word of doutu.</p>
+</li>
+</ul>
+<p><strong>Bug fix</strong></p>
+<ul>
+<li>
+<p>Fix bug when search key in code block will cause the search input lose focus.</p>
+</li>
+<li>
+<p>Fix the bug the editor will lose cursor after input Chinese.</p>
+</li>
+</ul>
+<h3 id="052">0.5.2<a class="anchor" aria-hidden tabindex="-1" href="#052">#</a></h3>
+<p><strong>Features</strong></p>
+<ul>
+<li>
+<p>Add Typewriter Mode, The current line will always in the center of the document. If you change the current line, it will be auto scroll to the new line.</p>
+</li>
+<li>
+<p>Add Focus Mode, the current paragraph's will be focused.</p>
+</li>
+<li>
+<p>Add Dark theme, Light theme.</p>
+</li>
+</ul>
+<p><strong>Optimization</strong></p>
+<ul>
+<li>
+<p>Optimize the display of path name and file name in title bar.</p>
+</li>
+<li>
+<p>Eidtor will auto scroll to the highlight word when click Find Prev or Find Next.</p>
+</li>
+</ul>
+<p><strong>Bug fix</strong></p>
+<ul>
+<li>Set back the cursor when mode change between source code mode and normal mode</li>
+</ul>
+<h3 id="040">0.4.0<a class="anchor" aria-hidden tabindex="-1" href="#040">#</a></h3>
+<p><strong>Feature</strong></p>
+<ul>
+<li>
+<p>Search value in document, Use <strong>FIND PREV</strong> and <strong>FIND NEXT</strong> to selection previous one or next one.</p>
+<p>Add animation of highlight word.</p>
+<p>Auto focus the search input when open search panel.</p>
+<p>close the search panel will auto selection the last highlight word by ESC button.</p>
+</li>
+<li>
+<p>Replace value</p>
+<p>Replace All</p>
+<p>Replace one and auto highlight the next word.</p>
+</li>
+</ul>
+<p><strong>Bug fix</strong></p>
+<ul>
+<li>fix the bug that click at the edge of code block will caused the code block does not be focused.</li>
+</ul>
+<p><strong>Optimization</strong></p>
+<ul>
+<li>
+<p>Optimize the display of word count in title bar. we also delete the background color of title bar to make it more concise.</p>
+</li>
+<li>
+<p>Customize the style of checkbox in Task List Item.</p>
+</li>
+<li>
+<p>Change the display of Insert Table dialog.</p>
+</li>
+</ul>
+<h3 id="030">0.3.0<a class="anchor" aria-hidden tabindex="-1" href="#030">#</a></h3>
+<p><strong>Features</strong></p>
+<ul>
+<li>Export PDF</li>
+</ul>
+<p><strong>Bug fix</strong></p>
+<ul>
+<li>fix the bug that editor can only print the first page.</li>
+</ul>6:["$","div",null,{"className":"docs-shell","children":[["$","$L13",null,{"activeTab":"dev","activeHref":"/docs/changelog"}],["$","main",null,{"className":"doc-main","children":[["$","$L14",null,{}],["$","article",null,{"className":"doc-article","children":[["$","nav",null,{"className":"breadcrumb","aria-label":"Breadcrumb","children":[["$","$L5",null,{"href":"/docs/dev/overview","children":"Developer docs"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"className":"cur","children":"Project"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"className":"cur","children":"Changelog"}]]}],["$","div",null,{"className":"doc-eyebrow","children":"Developer documentation"}],["$","h1",null,{"className":"art-title","children":"Changelog"}],null,["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16","$L17"]}]]}],"$L18"]}]
+19:I[8962,["443","static/chunks/443-7cf74c804957b081.js","489","static/chunks/489-8017c614124496c3.js","582","static/chunks/app/docs/%5B...slug%5D/page-9f1c6ed98e537349.js"],"default"]
+16:["$","nav",null,{"className":"pager","aria-label":"Previous / next page","children":[["$","$L5",null,{"className":"prev","href":"/docs/dev/code-of-conduct","children":[["$","span",null,{"className":"dir","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"2","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":true,"children":["$","path",null,{"d":"M19 12H5M12 5l-7 7 7 7"}]}],"Previous"]}],["$","span",null,{"className":"nm","children":"Code of conduct"}]]}],["$","span",null,{}]]}]
+17:["$","footer",null,{"className":"doc-footer","children":[["$","span",null,{"children":"Last reviewed in the develop branch · open source under the GPL-3.0 license."}],["$","a",null,{"className":"edit-link","href":"https://github.com/Bulls1986/Inkiva/edit/develop/packages/website/content/docs/CHANGELOG.md","target":"_blank","rel":"noopener noreferrer","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"2","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":true,"children":[["$","path",null,{"d":"M12 20h9"}],["$","path",null,{"d":"M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4z"}]]}],"Edit this page on GitHub"]}]]}]
+18:["$","$L19",null,{"entries":[{"id":"0171","text":"0.17.1","depth":2},{"id":"0170","text":"0.17.0","depth":2},{"id":"0163","text":"0.16.3","depth":2},{"id":"0162","text":"0.16.2","depth":2},{"id":"0161","text":"0.16.1","depth":2},{"id":"0160","text":"0.16.0","depth":2},{"id":"0151","text":"0.15.1","depth":2},{"id":"0150","text":"0.15.0","depth":2},{"id":"0140","text":"0.14.0","depth":3},{"id":"01365","text":"0.13.65","depth":3},{"id":"01350","text":"0.13.50","depth":3},{"id":"01225","text":"0.12.25","depth":3},{"id":"01220","text":"0.12.20","depth":3},{"id":"01142","text":"0.11.42","depth":3},{"id":"01021","text":"0.10.21","depth":3},{"id":"0925","text":"0.9.25","depth":3},{"id":"0812","text":"0.8.12","depth":3},{"id":"0717","text":"0.7.17","depth":3},{"id":"0614","text":"0.6.14","depth":3},{"id":"052","text":"0.5.2","depth":3},{"id":"040","text":"0.4.0","depth":3},{"id":"030","text":"0.3.0","depth":3}]}]

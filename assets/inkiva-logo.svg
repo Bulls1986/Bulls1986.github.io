@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">Inkiva · 墨映</title>
+  <desc id="desc">An open charcoal ink seal whose final ultramarine stroke rises into light.</desc>
+  <defs>
+    <linearGradient id="ink" x1="174" y1="290" x2="857" y2="863" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#171A1F" />
+      <stop offset="1" stop-color="#24272D" />
+    </linearGradient>
+    <linearGradient id="light" x1="704" y1="624" x2="932" y2="192" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0757F2" />
+      <stop offset="0.54" stop-color="#176AF8" />
+      <stop offset="1" stop-color="#5AA8FF" />
+    </linearGradient>
+  </defs>
+
+  <rect x="32" y="32" width="960" height="960" rx="224" fill="#FFFFFF" stroke="#D7DAE0" stroke-width="2" />
+
+  <path
+    fill="url(#ink)"
+    d="M226 360c13-13 34-13 48 0l44 42c11 10 17 24 17 39v239c0 21 17 38 38 38h301c21 0 38-17 38-38v-48l145-96v150c0 98-79 177-177 177H351c-98 0-177-79-177-177V452c0-27 10-52 29-70l23-22Z"
+  />
+
+  <path
+    fill="url(#ink)"
+    d="M318 274h332v51c0 58-47 105-105 105H420c-19 0-37-7-51-20l-50-46c-13-12-20-28-20-46 0-24 7-38 19-44Z"
+  />
+
+  <path
+    fill="url(#light)"
+    d="M700 648V416c0-34 15-63 43-83 69-50 144-86 189-141-6 66-14 132-32 181-21 60-62 107-115 148-38 29-66 69-85 127Z"
+  />
+</svg>

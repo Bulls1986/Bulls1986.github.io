@@ -1,0 +1,148 @@
+1:"$Sreact.fragment"
+2:I[6670,[],""]
+3:I[7764,[],""]
+4:I[6490,["443","static/chunks/443-7cf74c804957b081.js","489","static/chunks/489-8017c614124496c3.js","499","static/chunks/app/docs/layout-085263c9c1978b47.js"],"default"]
+5:I[1443,["443","static/chunks/443-7cf74c804957b081.js","489","static/chunks/489-8017c614124496c3.js","582","static/chunks/app/docs/%5B...slug%5D/page-9f1c6ed98e537349.js"],""]
+7:I[6359,[],"OutletBoundary"]
+9:I[9830,[],"AsyncMetadataOutlet"]
+c:I[182,[],""]
+:HL["/_next/static/media/22a5144ee8d83bca-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7d4881bb7e1bf84d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/594aaef56c2fcdc5.css","style"]
+:HL["/_next/static/css/a244f3ad1ba92095.css","style"]
+0:{"P":null,"b":"BCwQVXqvkGVpKJpXLRn0O","p":"","c":["","docs","dev","build",""],"i":false,"f":[[["",{"children":["docs",{"children":[["slug","dev/build","c"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/594aaef56c2fcdc5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","data-theme":"dark","className":"__variable_246ccd __variable_c29908","children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem(\"inkiva-theme\");if(!t)t=\"dark\";document.documentElement.setAttribute('data-theme',t);}catch(e){document.documentElement.setAttribute('data-theme',\"dark\");}})();"}}]}],["$","body",null,{"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Inkiva\",\"applicationCategory\":\"DeveloperApplication\",\"operatingSystem\":\"macOS, Windows, Linux\",\"description\":\"A free, open-source WYSIWYG Markdown editor for macOS, Windows and Linux. Write naturally and see the rendered document take shape in place.\",\"url\":\"https://www.inkiva.net\",\"license\":\"https://github.com/Bulls1986/Inkiva/blob/develop/LICENSE\",\"author\":{\"@type\":\"Person\",\"name\":\"Ran Luo\",\"url\":\"https://github.com/Jocs\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"USD\"},\"downloadUrl\":\"https://github.com/Bulls1986/Inkiva/releases/latest\",\"softwareVersion\":\"latest\"}"}}]]}]]}]]}],{"children":["docs",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a244f3ad1ba92095.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],[["$","div",null,{"className":"bg-fx"}],["$","div",null,{"className":"bg-grid"}],["$","$L4",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}]]]}],{"children":[["slug","dev/build","c"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"doc-main doc-notfound","children":["$","article",null,{"className":"doc-article","children":[["$","div",null,{"className":"doc-eyebrow","children":"404"}],["$","h1",null,{"className":"art-title","children":"Page not found"}],["$","p",null,{"className":"art-lead","children":["The page you're looking for has moved or never existed. Try the documentation home, or press ",["$","code",null,{"className":"inline","children":"⌘K"}]," to search."]}],["$","p",null,{"children":["$","$L5",null,{"className":"doc-cta","href":"/docs/introduction","children":["Back to ","Introduction"]}]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$L8",["$","$L9",null,{"promise":"$@a"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],"$Lb",false]],"m":"$undefined","G":["$c",[]],"s":false,"S":true}
+d:I[6359,[],"ViewportBoundary"]
+f:I[6359,[],"MetadataBoundary"]
+10:"$Sreact.suspense"
+b:["$","$1","h",{"children":[null,[["$","$Ld",null,{"children":"$Le"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lf",null,{"children":["$","div",null,{"hidden":true,"children":["$","$10",null,{"fallback":null,"children":"$L11"}]}]}]]}]
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#0b63e5"}]]
+8:null
+12:I[3766,[],"IconMark"]
+a:{"metadata":[["$","title","0",{"children":"Build instructions · Inkiva Docs"}],["$","meta","1",{"name":"description","content":"Build Inkiva from source"}],["$","meta","2",{"name":"application-name","content":"Inkiva"}],["$","link","3",{"rel":"author","href":"https://github.com/Jocs"}],["$","meta","4",{"name":"author","content":"Ran Luo"}],["$","meta","5",{"name":"keywords","content":"markdown editor,WYSIWYG markdown,CommonMark,GitHub Flavored Markdown,GFM,KaTeX,Mermaid,PlantUML,Electron,macOS,Windows,Linux"}],["$","meta","6",{"name":"creator","content":"Ran Luo"}],["$","link","7",{"rel":"canonical","href":"https://www.inkiva.net/"}],["$","meta","8",{"property":"og:title","content":"Inkiva · 墨映 — WYSIWYG Markdown editor"}],["$","meta","9",{"property":"og:description","content":"A free, open-source WYSIWYG Markdown editor for macOS, Windows and Linux. Write naturally and see the rendered document take shape in place."}],["$","meta","10",{"property":"og:url","content":"https://www.inkiva.net/"}],["$","meta","11",{"property":"og:site_name","content":"Inkiva"}],["$","meta","12",{"property":"og:locale","content":"en_US"}],["$","meta","13",{"property":"og:image","content":"https://www.inkiva.net/favicon.png"}],["$","meta","14",{"property":"og:image:width","content":"512"}],["$","meta","15",{"property":"og:image:height","content":"512"}],["$","meta","16",{"property":"og:image:alt","content":"Inkiva logo"}],["$","meta","17",{"property":"og:type","content":"website"}],["$","meta","18",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","19",{"name":"twitter:site","content":"@inkivaapp"}],["$","meta","20",{"name":"twitter:title","content":"Inkiva · 墨映 — WYSIWYG Markdown editor"}],["$","meta","21",{"name":"twitter:description","content":"A free, open-source WYSIWYG Markdown editor for macOS, Windows and Linux. Write naturally and see the rendered document take shape in place."}],["$","meta","22",{"name":"twitter:image","content":"https://www.inkiva.net/favicon.png"}],["$","link","23",{"rel":"icon","href":"/favicon.png"}],["$","$L12","24",{}]],"error":null,"digest":"$undefined"}
+11:"$a:metadata"
+13:I[966,["443","static/chunks/443-7cf74c804957b081.js","489","static/chunks/489-8017c614124496c3.js","582","static/chunks/app/docs/%5B...slug%5D/page-9f1c6ed98e537349.js"],"default"]
+14:I[713,["443","static/chunks/443-7cf74c804957b081.js","489","static/chunks/489-8017c614124496c3.js","582","static/chunks/app/docs/%5B...slug%5D/page-9f1c6ed98e537349.js"],"default"]
+15:T362d,
+
+<p>Clone the repository:</p>
+<figure data-rehype-pretty-code-figure=""><div class="code"><div class="code-bar"><span class="lang">plaintext</span><button class="copy-btn" type="button" data-copy="git clone https://github.com/Bulls1986/Inkiva.git" aria-label="Copy code"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg><span class="label">Copy</span></button></div><pre tabindex="0" data-language="plaintext" data-theme="github-dark-dimmed github-light"><code data-language="plaintext" data-theme="github-dark-dimmed github-light" style="display: grid;"><span data-line=""><span>git clone https://github.com/Bulls1986/Inkiva.git</span></span></code></pre></div></figure>
+<h2 id="container-setup">Container Setup<a class="anchor" aria-hidden tabindex="-1" href="#container-setup">#</a></h2>
+<p>The easiest way to build Inkiva on Linux is from inside a container.
+Here are the steps for doing so:</p>
+<figure data-rehype-pretty-code-figure=""><div class="code"><div class="code-bar"><span class="lang">sh</span><button class="copy-btn" type="button" data-copy="# cd to inkiva repository
+ 
+# run container (you can use docker instead of podman if you like)
+podman run -it -v ./:/mnt:Z node:22-bookworm /bin/bash
+# you should now be interacting with the container
+ 
+# add bookworm-backports for Python 3.12 and install build dependencies
+echo &#x22;deb http://deb.debian.org/debian bookworm-backports main&#x22; >> /etc/apt/sources.list
+apt update
+apt-get install -y -t bookworm-backports python3.12
+apt-get install -y libx11-dev libxkbfile-dev libsecret-1-dev libfontconfig-dev rpm
+ 
+cd /mnt
+corepack enable
+pnpm install
+pnpm run build
+ 
+exit
+# container should now be terminated
+ 
+# build artifacts can be found in the dist/ directory (electron-builder output);
+# the intermediate electron-vite bundles live in out/" aria-label="Copy code"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg><span class="label">Copy</span></button></div><pre tabindex="0" data-language="sh" data-theme="github-dark-dimmed github-light"><code data-language="sh" data-theme="github-dark-dimmed github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#768390;--shiki-light:#6A737D"># cd to inkiva repository</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#768390;--shiki-light:#6A737D"># run container (you can use docker instead of podman if you like)</span></span>
+<span data-line=""><span style="--shiki-dark:#F69D50;--shiki-light:#6F42C1">podman</span><span style="--shiki-dark:#96D0FF;--shiki-light:#032F62"> run</span><span style="--shiki-dark:#6CB6FF;--shiki-light:#005CC5"> -it</span><span style="--shiki-dark:#6CB6FF;--shiki-light:#005CC5"> -v</span><span style="--shiki-dark:#96D0FF;--shiki-light:#032F62"> ./:/mnt:Z</span><span style="--shiki-dark:#96D0FF;--shiki-light:#032F62"> node:22-bookworm</span><span style="--shiki-dark:#96D0FF;--shiki-light:#032F62"> /bin/bash</span></span>
+<span data-line=""><span style="--shiki-dark:#768390;--shiki-light:#6A737D"># you should now be interacting with the container</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#768390;--shiki-light:#6A737D"># add bookworm-backports for Python 3.12 and install build dependencies</span></span>
+<span data-line=""><span style="--shiki-dark:#6CB6FF;--shiki-light:#005CC5">echo</span><span style="--shiki-dark:#96D0FF;--shiki-light:#032F62"> "deb http://deb.debian.org/debian bookworm-backports main"</span><span style="--shiki-dark:#F47067;--shiki-light:#D73A49"> >></span><span style="--shiki-dark:#96D0FF;--shiki-light:#032F62"> /etc/apt/sources.list</span></span>
+<span data-line=""><span style="--shiki-dark:#F69D50;--shiki-light:#6F42C1">apt</span><span style="--shiki-dark:#96D0FF;--shiki-light:#032F62"> update</span></span>
+<span data-line=""><span style="--shiki-dark:#F69D50;--shiki-light:#6F42C1">apt-get</span><span style="--shiki-dark:#96D0FF;--shiki-light:#032F62"> install</span><span style="--shiki-dark:#6CB6FF;--shiki-light:#005CC5"> -y</span><span style="--shiki-dark:#6CB6FF;--shiki-light:#005CC5"> -t</span><span style="--shiki-dark:#96D0FF;--shiki-light:#032F62"> bookworm-backports</span><span style="--shiki-dark:#96D0FF;--shiki-light:#032F62"> python3.12</span></span>
+<span data-line=""><span style="--shiki-dark:#F69D50;--shiki-light:#6F42C1">apt-get</span><span style="--shiki-dark:#96D0FF;--shiki-light:#032F62"> install</span><span style="--shiki-dark:#6CB6FF;--shiki-light:#005CC5"> -y</span><span style="--shiki-dark:#96D0FF;--shiki-light:#032F62"> libx11-dev</span><span style="--shiki-dark:#96D0FF;--shiki-light:#032F62"> libxkbfile-dev</span><span style="--shiki-dark:#96D0FF;--shiki-light:#032F62"> libsecret-1-dev</span><span style="--shiki-dark:#96D0FF;--shiki-light:#032F62"> libfontconfig-dev</span><span style="--shiki-dark:#96D0FF;--shiki-light:#032F62"> rpm</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#6CB6FF;--shiki-light:#005CC5">cd</span><span style="--shiki-dark:#96D0FF;--shiki-light:#032F62"> /mnt</span></span>
+<span data-line=""><span style="--shiki-dark:#F69D50;--shiki-light:#6F42C1">corepack</span><span style="--shiki-dark:#96D0FF;--shiki-light:#032F62"> enable</span></span>
+<span data-line=""><span style="--shiki-dark:#F69D50;--shiki-light:#6F42C1">pnpm</span><span style="--shiki-dark:#96D0FF;--shiki-light:#032F62"> install</span></span>
+<span data-line=""><span style="--shiki-dark:#F69D50;--shiki-light:#6F42C1">pnpm</span><span style="--shiki-dark:#96D0FF;--shiki-light:#032F62"> run</span><span style="--shiki-dark:#96D0FF;--shiki-light:#032F62"> build</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#6CB6FF;--shiki-light:#005CC5">exit</span></span>
+<span data-line=""><span style="--shiki-dark:#768390;--shiki-light:#6A737D"># container should now be terminated</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#768390;--shiki-light:#6A737D"># build artifacts can be found in the dist/ directory (electron-builder output);</span></span>
+<span data-line=""><span style="--shiki-dark:#768390;--shiki-light:#6A737D"># the intermediate electron-vite bundles live in out/</span></span></code></pre></div></figure>
+<p>Below are the complete build instructions, which may help you troubleshoot the above or attempt to build for other platforms.</p>
+<h3 id="prerequisites">Prerequisites<a class="anchor" aria-hidden tabindex="-1" href="#prerequisites">#</a></h3>
+<p>Before you can get started developing, you need set up your build environment:</p>
+<ul>
+<li>Node.js <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>>=20.19.0</span></span></code></span> and pnpm <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>>=10</span></span></code></span></li>
+<li>Python <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>>=3.12</span></span></code></span> for node-gyp</li>
+<li>C++ compiler and development tools</li>
+<li>Build is supported on Linux, macOS and Windows</li>
+</ul>
+<p><strong>Additional development dependencies on Linux:</strong></p>
+<ul>
+<li>libX11 (with headers)</li>
+<li>libxkbfile (with headers)</li>
+<li>libsecret (with headers)</li>
+<li>libfontconfig (with headers)</li>
+<li>rpm (if building on Debian)</li>
+</ul>
+<p>On Debian-based Linux: <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>sudo apt-get install libx11-dev libxkbfile-dev libsecret-1-dev libfontconfig-dev rpm</span></span></code></span></p>
+<p>On Red Hat-based Linux: <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>sudo dnf install libX11-devel libxkbfile-devel libsecret-devel fontconfig-devel</span></span></code></span></p>
+<p>On Arch Linux: <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>sudo pacman -S libx11 libxkbfile libsecret fontconfig</span></span></code></span></p>
+<p><strong>Additional development dependencies on Windows:</strong></p>
+<ul>
+<li>Windows 10 SDK (only needed before Windows 10)</li>
+<li>Visual Studio 2022 (Build Tools for Visual Studio 2022). You also need the spectre-mitigated MSVC libs — see <a href="/docs/dev/overview#13-windows-specific-pre-requisites" class="link">developer README §1.3</a> for the exact components to install.</li>
+</ul>
+<h3 id="lets-build">Let's build<a class="anchor" aria-hidden tabindex="-1" href="#lets-build">#</a></h3>
+<ol>
+<li>Go to <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>inkiva</span></span></code></span> folder</li>
+<li>Install dependencies: <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>pnpm install</span></span></code></span></li>
+<li>Build Inkiva binaries and packages: <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>pnpm run build</span></span></code></span></li>
+<li>Inkiva binary is located under <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>dist</span></span></code></span> folder (electron-builder output)</li>
+</ol>
+<p>Copy the build app to applications folder, or if on Windows run the executable installer.</p>
+<h3 id="important-scripts">Important scripts<a class="anchor" aria-hidden tabindex="-1" href="#important-scripts">#</a></h3>
+<figure data-rehype-pretty-code-figure=""><div class="code"><div class="code-bar"><span class="lang">plaintext</span><button class="copy-btn" type="button" data-copy="$ pnpm run <script>" aria-label="Copy code"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg><span class="label">Copy</span></button></div><pre tabindex="0" data-language="plaintext" data-theme="github-dark-dimmed github-light"><code data-language="plaintext" data-theme="github-dark-dimmed github-light" style="display: grid;"><span data-line=""><span>$ pnpm run &#x3C;script></span></span></code></pre></div></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="tbl-wrap"><table class="md"><thead><tr><th>Script</th><th>Description</th></tr></thead><tbody><tr><td><span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>build</span></span></code></span></td><td>Build Inkiva binaries and packages for your OS</td></tr><tr><td><span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>dev</span></span></code></span></td><td>Build and run Inkiva in developer mode</td></tr><tr><td><span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>lint</span></span></code></span></td><td>Lint code style</td></tr><tr><td><span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>test</span></span></code></span></td><td>Run unit tests</td></tr></tbody></table></div>
+<p>For more scripts please see <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>package.json</span></span></code></span>.</p>
+<div class="callout tip"><svg class="ci" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2v4M12 18v4M2 12h4M18 12h4M4.9 4.9l2.8 2.8M16.3 16.3l2.8 2.8M4.9 19.1l2.8-2.8M16.3 7.7l2.8-2.8"></path></svg><div class="ct-body"><b>Tip</b>
+<p>To improve efficiency during development:</p>
+<ol>
+<li>Use <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>pnpm run dev</span></span></code></span> for development mode. This will automatically reload the window when source code is modified.</li>
+<li>Use <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>Ctrl+R</span></span></code></span> to manually reload the application in development mode if needed.</li>
+</ol>
+<p>This approach bypasses unnecessary rebuilds and optimizes the developer workflow. However, for CI or release builds, a full rebuild may still be necessary.</p>
+</div></div>6:["$","div",null,{"className":"docs-shell","children":[["$","$L13",null,{"activeTab":"dev","activeHref":"/docs/dev/build"}],["$","main",null,{"className":"doc-main","children":[["$","$L14",null,{}],["$","article",null,{"className":"doc-article","children":[["$","nav",null,{"className":"breadcrumb","aria-label":"Breadcrumb","children":[["$","$L5",null,{"href":"/docs/dev/overview","children":"Developer docs"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"className":"cur","children":"Get started"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"className":"cur","children":"Build instructions"}]]}],["$","div",null,{"className":"doc-eyebrow","children":"Developer documentation"}],["$","h1",null,{"className":"art-title","children":"Build Instructions#"}],["$","p",null,{"className":"art-lead","children":"Please see this issue for updates on our efforts to modernize this process!"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16","$L17"]}]]}],"$L18"]}]
+19:I[8962,["443","static/chunks/443-7cf74c804957b081.js","489","static/chunks/489-8017c614124496c3.js","582","static/chunks/app/docs/%5B...slug%5D/page-9f1c6ed98e537349.js"],"default"]
+16:["$","nav",null,{"className":"pager","aria-label":"Previous / next page","children":[["$","$L5",null,{"className":"prev","href":"/docs/dev/overview","children":[["$","span",null,{"className":"dir","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"2","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":true,"children":["$","path",null,{"d":"M19 12H5M12 5l-7 7 7 7"}]}],"Previous"]}],["$","span",null,{"className":"nm","children":"Developer overview"}]]}],["$","$L5",null,{"className":"next","href":"/docs/dev/linux-dev","children":[["$","span",null,{"className":"dir","children":["Next",["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"2","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":true,"children":["$","path",null,{"d":"M5 12h14M12 5l7 7-7 7"}]}]]}],["$","span",null,{"className":"nm","children":"Linux dev environment"}]]}]]}]
+17:["$","footer",null,{"className":"doc-footer","children":[["$","span",null,{"children":"Last reviewed in the develop branch · open source under the GPL-3.0 license."}],["$","a",null,{"className":"edit-link","href":"https://github.com/Bulls1986/Inkiva/edit/develop/packages/website/content/docs/dev/BUILD.md","target":"_blank","rel":"noopener noreferrer","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"2","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":true,"children":[["$","path",null,{"d":"M12 20h9"}],["$","path",null,{"d":"M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4z"}]]}],"Edit this page on GitHub"]}]]}]
+18:["$","$L19",null,{"entries":[{"id":"container-setup","text":"Container Setup","depth":2},{"id":"prerequisites","text":"Prerequisites","depth":3},{"id":"lets-build","text":"Let's build","depth":3},{"id":"important-scripts","text":"Important scripts","depth":3}]}]

@@ -1,0 +1,280 @@
+1:"$Sreact.fragment"
+2:I[6670,[],""]
+3:I[7764,[],""]
+4:I[6490,["443","static/chunks/443-7cf74c804957b081.js","489","static/chunks/489-8017c614124496c3.js","499","static/chunks/app/docs/layout-085263c9c1978b47.js"],"default"]
+5:I[1443,["443","static/chunks/443-7cf74c804957b081.js","489","static/chunks/489-8017c614124496c3.js","582","static/chunks/app/docs/%5B...slug%5D/page-9f1c6ed98e537349.js"],""]
+7:I[6359,[],"OutletBoundary"]
+9:I[9830,[],"AsyncMetadataOutlet"]
+c:I[182,[],""]
+:HL["/_next/static/media/22a5144ee8d83bca-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7d4881bb7e1bf84d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/594aaef56c2fcdc5.css","style"]
+:HL["/_next/static/css/a244f3ad1ba92095.css","style"]
+0:{"P":null,"b":"BCwQVXqvkGVpKJpXLRn0O","p":"","c":["","docs","themes",""],"i":false,"f":[[["",{"children":["docs",{"children":[["slug","themes","c"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/594aaef56c2fcdc5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","data-theme":"dark","className":"__variable_246ccd __variable_c29908","children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem(\"inkiva-theme\");if(!t)t=\"dark\";document.documentElement.setAttribute('data-theme',t);}catch(e){document.documentElement.setAttribute('data-theme',\"dark\");}})();"}}]}],["$","body",null,{"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Inkiva\",\"applicationCategory\":\"DeveloperApplication\",\"operatingSystem\":\"macOS, Windows, Linux\",\"description\":\"A free, open-source WYSIWYG Markdown editor for macOS, Windows and Linux. Write naturally and see the rendered document take shape in place.\",\"url\":\"https://www.inkiva.net\",\"license\":\"https://github.com/Bulls1986/Inkiva/blob/develop/LICENSE\",\"author\":{\"@type\":\"Person\",\"name\":\"Ran Luo\",\"url\":\"https://github.com/Jocs\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"USD\"},\"downloadUrl\":\"https://github.com/Bulls1986/Inkiva/releases/latest\",\"softwareVersion\":\"latest\"}"}}]]}]]}]]}],{"children":["docs",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a244f3ad1ba92095.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],[["$","div",null,{"className":"bg-fx"}],["$","div",null,{"className":"bg-grid"}],["$","$L4",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}]]]}],{"children":[["slug","themes","c"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"doc-main doc-notfound","children":["$","article",null,{"className":"doc-article","children":[["$","div",null,{"className":"doc-eyebrow","children":"404"}],["$","h1",null,{"className":"art-title","children":"Page not found"}],["$","p",null,{"className":"art-lead","children":["The page you're looking for has moved or never existed. Try the documentation home, or press ",["$","code",null,{"className":"inline","children":"⌘K"}]," to search."]}],["$","p",null,{"children":["$","$L5",null,{"className":"doc-cta","href":"/docs/introduction","children":["Back to ","Introduction"]}]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$L8",["$","$L9",null,{"promise":"$@a"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],"$Lb",false]],"m":"$undefined","G":["$c",[]],"s":false,"S":true}
+d:I[6359,[],"ViewportBoundary"]
+f:I[6359,[],"MetadataBoundary"]
+10:"$Sreact.suspense"
+b:["$","$1","h",{"children":[null,[["$","$Ld",null,{"children":"$Le"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lf",null,{"children":["$","div",null,{"hidden":true,"children":["$","$10",null,{"fallback":null,"children":"$L11"}]}]}]]}]
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#0b63e5"}]]
+8:null
+12:I[3766,[],"IconMark"]
+a:{"metadata":[["$","title","0",{"children":"Themes · Inkiva Docs"}],["$","meta","1",{"name":"description","content":"Built-in & custom UI themes"}],["$","meta","2",{"name":"application-name","content":"Inkiva"}],["$","link","3",{"rel":"author","href":"https://github.com/Jocs"}],["$","meta","4",{"name":"author","content":"Ran Luo"}],["$","meta","5",{"name":"keywords","content":"markdown editor,WYSIWYG markdown,CommonMark,GitHub Flavored Markdown,GFM,KaTeX,Mermaid,PlantUML,Electron,macOS,Windows,Linux"}],["$","meta","6",{"name":"creator","content":"Ran Luo"}],["$","link","7",{"rel":"canonical","href":"https://www.inkiva.net/"}],["$","meta","8",{"property":"og:title","content":"Inkiva · 墨映 — WYSIWYG Markdown editor"}],["$","meta","9",{"property":"og:description","content":"A free, open-source WYSIWYG Markdown editor for macOS, Windows and Linux. Write naturally and see the rendered document take shape in place."}],["$","meta","10",{"property":"og:url","content":"https://www.inkiva.net/"}],["$","meta","11",{"property":"og:site_name","content":"Inkiva"}],["$","meta","12",{"property":"og:locale","content":"en_US"}],["$","meta","13",{"property":"og:image","content":"https://www.inkiva.net/favicon.png"}],["$","meta","14",{"property":"og:image:width","content":"512"}],["$","meta","15",{"property":"og:image:height","content":"512"}],["$","meta","16",{"property":"og:image:alt","content":"Inkiva logo"}],["$","meta","17",{"property":"og:type","content":"website"}],["$","meta","18",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","19",{"name":"twitter:site","content":"@inkivaapp"}],["$","meta","20",{"name":"twitter:title","content":"Inkiva · 墨映 — WYSIWYG Markdown editor"}],["$","meta","21",{"name":"twitter:description","content":"A free, open-source WYSIWYG Markdown editor for macOS, Windows and Linux. Write naturally and see the rendered document take shape in place."}],["$","meta","22",{"name":"twitter:image","content":"https://www.inkiva.net/favicon.png"}],["$","link","23",{"rel":"icon","href":"/favicon.png"}],["$","$L12","24",{}]],"error":null,"digest":"$undefined"}
+11:"$a:metadata"
+13:I[966,["443","static/chunks/443-7cf74c804957b081.js","489","static/chunks/489-8017c614124496c3.js","582","static/chunks/app/docs/%5B...slug%5D/page-9f1c6ed98e537349.js"],"default"]
+14:I[713,["443","static/chunks/443-7cf74c804957b081.js","489","static/chunks/489-8017c614124496c3.js","582","static/chunks/app/docs/%5B...slug%5D/page-9f1c6ed98e537349.js"],"default"]
+15:T2561,
+
+<p>The names below match the labels shown in the <strong>Theme</strong> menu. The underlying id stored in <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>preferences.json</span></span></code></span> under the <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>theme</span></span></code></span> field can differ — e.g. <em>Cadmium Light</em> → <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>light</span></span></code></span>, <em>Cadmium Dark</em> → <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>dark</span></span></code></span>, <em>Graphite Light</em> → <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>graphite</span></span></code></span>, <em>Ulysses Light</em> → <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>ulysses</span></span></code></span>. The full label↔id mapping lives in <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>src/main/menu/templates/theme.ts</span></span></code></span>.</p>
+<h2 id="light-themes">Light Themes<a class="anchor" aria-hidden tabindex="-1" href="#light-themes">#</a></h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="tbl-wrap"><table class="md"><thead><tr><th>Theme</th><th>Description</th></tr></thead><tbody><tr><td><strong>Ayu Light</strong></td><td>Warm, comfortable light theme with soft colors</td></tr><tr><td><strong>Cadmium Light</strong></td><td>Clean, minimal light theme (default)</td></tr><tr><td><strong>Catppuccin Latte</strong></td><td>Soothing pastel theme with warm tones</td></tr><tr><td><strong>Everforest Light</strong></td><td>Nature-inspired green-tinted light theme</td></tr><tr><td><strong>Graphite Light</strong></td><td>Cool gray-toned light theme</td></tr><tr><td><strong>Gruvbox Light</strong></td><td>Retro groove with warm, earthy colors</td></tr><tr><td><strong>Rosé Pine Dawn</strong></td><td>Elegant theme with subtle rose accents</td></tr><tr><td><strong>Solarized Light</strong></td><td>Classic precision color scheme</td></tr><tr><td><strong>Tokyo Night Light</strong></td><td>Modern light variant of Tokyo Night</td></tr><tr><td><strong>Ulysses Light</strong></td><td>Inspired by the Ulysses writing app</td></tr></tbody></table></div>
+<h2 id="dark-themes">Dark Themes<a class="anchor" aria-hidden tabindex="-1" href="#dark-themes">#</a></h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="tbl-wrap"><table class="md"><thead><tr><th>Theme</th><th>Description</th></tr></thead><tbody><tr><td><strong>Ayu Dark</strong></td><td>Deep, comfortable dark theme</td></tr><tr><td><strong>Ayu Mirage</strong></td><td>Softer dark variant of Ayu</td></tr><tr><td><strong>Cadmium Dark</strong></td><td>Clean, minimal dark theme</td></tr><tr><td><strong>Catppuccin Mocha</strong></td><td>Rich, warm dark pastel theme</td></tr><tr><td><strong>cyberdream</strong></td><td>Neon-accented futuristic dark theme</td></tr><tr><td><strong>Dracula</strong></td><td>Popular purple-tinted dark theme</td></tr><tr><td><strong>Everforest Dark</strong></td><td>Nature-inspired forest dark theme</td></tr><tr><td><strong>Gruvbox Dark</strong></td><td>Retro groove with warm dark colors</td></tr><tr><td><strong>Horizon Dark</strong></td><td>Vibrant warm dark theme</td></tr><tr><td><strong>Kanagawa</strong></td><td>Inspired by Hokusai's Great Wave painting</td></tr><tr><td><strong>Material Dark</strong></td><td>Google Material Design dark theme</td></tr><tr><td><strong>Monokai Pro</strong></td><td>Professional variant of the classic Monokai</td></tr><tr><td><strong>Nightfox</strong></td><td>Cool-toned dark theme with good contrast</td></tr><tr><td><strong>Nord</strong></td><td>Arctic, bluish clean dark theme</td></tr><tr><td><strong>One Dark</strong></td><td>Atom editor's signature dark theme</td></tr><tr><td><strong>Oxocarbon Dark</strong></td><td>IBM Carbon-inspired minimal dark theme</td></tr><tr><td><strong>Palenight</strong></td><td>Elegant purple-tinted dark theme</td></tr><tr><td><strong>Rosé Pine</strong></td><td>Soho vibes with muted rose tones</td></tr><tr><td><strong>Rosé Pine Moon</strong></td><td>Darker variant of Rosé Pine</td></tr><tr><td><strong>Solarized Dark</strong></td><td>Classic precision dark color scheme</td></tr><tr><td><strong>Synthwave '84</strong></td><td>Retro 80s neon aesthetic</td></tr><tr><td><strong>Tokyo Night</strong></td><td>Modern VSCode-inspired dark theme</td></tr><tr><td><strong>Tokyo Night Storm</strong></td><td>Higher contrast Tokyo Night variant</td></tr></tbody></table></div>
+<h2 id="switching-themes">Switching Themes<a class="anchor" aria-hidden tabindex="-1" href="#switching-themes">#</a></h2>
+<p>You can switch themes in several ways:</p>
+<ol>
+<li><strong>Menu</strong>: Go to <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>Theme</span></span></code></span> menu and select your preferred theme</li>
+<li><strong>Preferences</strong>: Open <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>Preferences</span></span></code></span> → <span data-rehype-pretty-code-figure=""><code data-language="plaintext" data-theme="github-dark-dimmed github-light" class="inline"><span data-line=""><span>Theme</span></span></code></span> tab to preview and select themes</li>
+<li><strong>Follow System</strong>: Enable "Follow System Theme" to automatically switch between light and dark themes based on your system settings</li>
+</ol>
+<h2 id="theme-screenshots">Theme Screenshots<a class="anchor" aria-hidden tabindex="-1" href="#theme-screenshots">#</a></h2>
+<h3 id="light-themes-1">Light Themes<a class="anchor" aria-hidden tabindex="-1" href="#light-themes-1">#</a></h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="tbl-wrap"><table class="md"><thead><tr><th>Cadmium Light</th><th>Graphite Light</th></tr></thead><tbody><tr><td><img src="/docs/themeImages/cadmium-light.png" alt="Cadmium Light"></td><td><img src="/docs/themeImages/graphite-light.png" alt="Graphite Light"></td></tr></tbody></table></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="tbl-wrap"><table class="md"><thead><tr><th>Ulysses Light</th><th>Catppuccin Latte</th></tr></thead><tbody><tr><td><img src="/docs/themeImages/ulysses-light.png" alt="Ulysses Light"></td><td><img src="/docs/themeImages/catppuccin-latte.png" alt="Catppuccin Latte"></td></tr></tbody></table></div>
+<h3 id="dark-themes-1">Dark Themes<a class="anchor" aria-hidden tabindex="-1" href="#dark-themes-1">#</a></h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="tbl-wrap"><table class="md"><thead><tr><th>Dark</th><th>Material Dark</th></tr></thead><tbody><tr><td><img src="/docs/themeImages/dark.png" alt="Dark"></td><td><img src="/docs/themeImages/material-dark.png" alt="Material Dark"></td></tr></tbody></table></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="tbl-wrap"><table class="md"><thead><tr><th>One Dark</th><th>Dracula</th></tr></thead><tbody><tr><td><img src="/docs/themeImages/one-dark.png" alt="One Dark"></td><td><img src="/docs/themeImages/dracula.png" alt="Dracula"></td></tr></tbody></table></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="tbl-wrap"><table class="md"><thead><tr><th>Nord</th><th>Tokyo Night</th></tr></thead><tbody><tr><td><img src="/docs/themeImages/nord.png" alt="Nord"></td><td><img src="/docs/themeImages/tokyo-night.png" alt="Tokyo Night"></td></tr></tbody></table></div>
+<h2 id="custom-themes">Custom Themes<a class="anchor" aria-hidden tabindex="-1" href="#custom-themes">#</a></h2>
+<p>Custom theme support is planned for a future release. In the meantime, you can use the "Custom CSS" option in Preferences → Theme to override theme styles.</p>
+<h2 id="theme-credits">Theme Credits<a class="anchor" aria-hidden tabindex="-1" href="#theme-credits">#</a></h2>
+<p>Many of these themes are inspired by popular color schemes from the developer community:</p>
+<ul>
+<li><a href="https://github.com/catppuccin/catppuccin" class="link">Catppuccin</a> - MIT License</li>
+<li><a href="https://github.com/dracula/dracula-theme" class="link">Dracula</a> - MIT License</li>
+<li><a href="https://github.com/sainnhe/everforest" class="link">Everforest</a> - MIT License</li>
+<li><a href="https://github.com/morhetz/gruvbox" class="link">Gruvbox</a> - MIT License</li>
+<li><a href="https://github.com/nordtheme/nord" class="link">Nord</a> - MIT License</li>
+<li><a href="https://github.com/rose-pine/rose-pine-theme" class="link">Rosé Pine</a> - MIT License</li>
+<li><a href="https://github.com/altercation/solarized" class="link">Solarized</a> - MIT License</li>
+<li><a href="https://github.com/enkia/tokyo-night-vscode-theme" class="link">Tokyo Night</a> - MIT License</li>
+<li><a href="https://github.com/Gogh-Co/Gogh" class="link">Gogh Themes</a> - MIT License (color palette reference)</li>
+</ul>6:["$","div",null,{"className":"docs-shell","children":[["$","$L13",null,{"activeTab":"user","activeHref":"/docs/themes"}],["$","main",null,{"className":"doc-main","children":[["$","$L14",null,{}],["$","article",null,{"className":"doc-article","children":[["$","nav",null,{"className":"breadcrumb","aria-label":"Breadcrumb","children":[["$","$L5",null,{"href":"/docs/introduction","children":"User docs"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"className":"cur","children":"Export & themes"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"className":"cur","children":"Themes"}]]}],["$","div",null,{"className":"doc-eyebrow","children":"User documentation"}],["$","h1",null,{"className":"art-title","children":"Themes#"}],["$","p",null,{"className":"art-lead","children":"Inkiva includes 33 built-in themes organized into Light and Dark categories. Each theme provides a complete color scheme for the editor interface and syntax highlighting."}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16","$L17"]}]]}],"$L18"]}]
+19:I[8962,["443","static/chunks/443-7cf74c804957b081.js","489","static/chunks/489-8017c614124496c3.js","582","static/chunks/app/docs/%5B...slug%5D/page-9f1c6ed98e537349.js"],"default"]
+16:["$","nav",null,{"className":"pager","aria-label":"Previous / next page","children":[["$","$L5",null,{"className":"prev","href":"/docs/export","children":[["$","span",null,{"className":"dir","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"2","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":true,"children":["$","path",null,{"d":"M19 12H5M12 5l-7 7 7 7"}]}],"Previous"]}],["$","span",null,{"className":"nm","children":"Export a document"}]]}],["$","$L5",null,{"className":"next","href":"/docs/export-themes","children":[["$","span",null,{"className":"dir","children":["Next",["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"2","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":true,"children":["$","path",null,{"d":"M5 12h14M12 5l7 7-7 7"}]}]]}],["$","span",null,{"className":"nm","children":"Themes for exporting"}]]}]]}]
+17:["$","footer",null,{"className":"doc-footer","children":[["$","span",null,{"children":"Last reviewed in the develop branch · open source under the GPL-3.0 license."}],["$","a",null,{"className":"edit-link","href":"https://github.com/Bulls1986/Inkiva/edit/develop/packages/website/content/docs/end-user/THEMES.md","target":"_blank","rel":"noopener noreferrer","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"2","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":true,"children":[["$","path",null,{"d":"M12 20h9"}],["$","path",null,{"d":"M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4z"}]]}],"Edit this page on GitHub"]}]]}]
+18:["$","$L19",null,{"entries":[{"id":"light-themes","text":"Light Themes","depth":2},{"id":"dark-themes","text":"Dark Themes","depth":2},{"id":"switching-themes","text":"Switching Themes","depth":2},{"id":"theme-screenshots","text":"Theme Screenshots","depth":2},{"id":"light-themes-1","text":"Light Themes","depth":3},{"id":"dark-themes-1","text":"Dark Themes","depth":3},{"id":"custom-themes","text":"Custom Themes","depth":2},{"id":"theme-credits","text":"Theme Credits","depth":2}]}]
